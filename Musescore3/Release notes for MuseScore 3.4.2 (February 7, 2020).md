@@ -1,4 +1,4 @@
-Fixes:
+Fixes
 
     Telemetry dialog was not accessible for visually impaired people
     Drum input palette worked incorrectly due to the changes involving single click behaviour
@@ -6,7 +6,7 @@ Fixes:
     Hidden pedal items were no longer displayed
     "L" letter could not be typed when entering text
 
-Complete list of issues resolved and improvements implemented:
+Complete list of issues resolved and improvements implemented
 
     Users can now iterate through the telemetry dialog using 'Tab' key
     Add support for key input in telemetry dialog (Esc, ArrowUp, ArrowDown, Enter)
