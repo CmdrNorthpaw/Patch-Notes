@@ -1,0 +1,1 @@
+"# Patch-Notes"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/O5X/Patch-Notes.gitgit push -u origin master
