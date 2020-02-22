@@ -19,4 +19,4 @@ Complete list of issues resolved and improvements implemented
     #300347: Rehearsal mark does not accept letter L
     #293181: Deleting measures leads to corrupting the other linked staff if their display has been reversed
     
-[#299654](https://musescore.org/node/299654)
+[Patch notes](https://musescore.org/node/299654)
