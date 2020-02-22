@@ -8,7 +8,7 @@ Fixes
 
 Complete list of issues resolved and improvements implemented
 
-    Users can now iterate through the telemetry dialog using 'Tab' key
+   Users can now iterate through the telemetry dialog using 'Tab' key
     Add support for key input in telemetry dialog (Esc, ArrowUp, ArrowDown, Enter)
     Revert to double-click to apply elements from drum input palette
     [#299654](https://musescore.org/node/299654 "Patch notes"): Crash on startup with Qt 5.14
