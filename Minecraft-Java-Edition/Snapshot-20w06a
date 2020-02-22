@@ -170,7 +170,9 @@ Fixed bugs in 20w06a
     MC-169832 - Transparent item models have inconsistent rendering when a glowing entity is present
     MC-170128 - Cannot build an EntityType without a datafixer due to an IllegalArgumentException
 
+Minecraft Wiki Link: https://minecraft.gamepedia.com/Java_Edition_20w06a
 
+Get the snapshot
 
 To install the snapshot, open up the Minecraft Launcher and enable snapshots in the "Installations" tab.
 
