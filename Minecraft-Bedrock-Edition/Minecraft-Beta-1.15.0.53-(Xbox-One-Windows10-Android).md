@@ -17,7 +17,8 @@ Parity:
 
  Fixes:
 
-    Crashes/Performance
+Crashes/Performance:
+
         Fixed several crashes that could occur during gameplay
         Optimised key frame animation playback
         Optimised performance when breaking lots of Kelp plants
