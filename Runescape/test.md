@@ -1,34 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
 <div id="article-top" name="article-top" class="clockwork">
 	<div class="context">
 		<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
 		<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
 	</div>
-	<p><i></i></p>
-	<center><i>Want to share feedback? Why not make a post in our <a href="https://secure.runescape.com/m=forum/a=13/c=Fq8eu7w2-Ss/forums?442,443,57,66143681">forum</a>!
-<br>Run into an issue? Click <a href="https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug#RS">here</a> to find out how you can let us know!</i></center>
-	<p></p>
+	<p align="center">
+	<i>Want to share feedback? Why not make a post in our <a href="https://secure.runescape.com/m=forum/a=13/c=Fq8eu7w2-Ss/forums?442,443,57,66143681">forum</a>!
+<br>Run into an issue? Click <a href="https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug#RS">here</a> to find out how you can let us know!</i>
+	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
-		<br>
-		<br>
-	<hr style="margin-bottom:15px;margin-top: 15px;">
-		<br>
-		<br>
-		<br>
-	<div class="category">
-		<div class="legenda">
-<a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="32" height="auto">Once Upon a Slime</a>
-<br>
+<div class="category">
+<div class="legenda">
+<p align="center"><a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="32" height="auto">Once Upon a Slime</a>
 <a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto">Combat</a>
-<br>
 <a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto">Mining</a>
-<br>
 <a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Other</a>
-<br>
-<a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Bug Fixes</a>
+<a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Bug Fixes</a></p>
 </div></div>
 </div>
-		<br>
-		<br>
 		<br>
 <hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
@@ -136,3 +127,5 @@
 </div>
 <hr style="margin-bottom:15px;margin-top: 15px;">
 <p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
+</body>
+</html>
