@@ -18,7 +18,8 @@ General:
 Gameplay:
         
         Auto-jump will no longer trigger unexpectedly when trying to walk through open doors (MCPE-52213)
-        Further fixes will be made in the future to allow auto-jump to work more consistently, for example, when trying to jump up one block through an open door
+        Further fixes will be made in the future to allow auto-jump to work more consistently, for example, 
+        when trying to jump up one block through an open door
 
 Blocks:
         
