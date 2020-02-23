@@ -16,7 +16,16 @@
 		<br>
 	<div class="category">
 		<div class="legenda">
-<a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="32" height="auto">Once Upon a Slime</a><a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto">Combat</a><a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto">Mining</a><a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Other</a><a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Bug Fixes</a></div></div>
+<a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="32" height="auto">Once Upon a Slime</a>
+<br>
+<a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto">Combat</a>
+<br>
+<a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto">Mining</a>
+<br>
+<a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Other</a>
+<br>
+<a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Bug Fixes</a>
+</div></div>
 </div>
 		<br>
 		<br>
