@@ -80,7 +80,7 @@
 		<br>
 		<a href="#news">Back to Top ↑</a>
 
-    <div class="context">
+<div class="context">
         <p>We also hope you enjoyed the changes we've made to the Patch Notes this week! We're looking forward to hearing your thoughts.</p>
         <p>Catch you next time!</p>
     </div>
