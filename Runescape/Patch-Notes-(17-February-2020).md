@@ -38,17 +38,20 @@ No one likes encounter bugs when they play, so each week we do our best to squas
 
 Fixes labelled Hotfix were addressed between weekly releases.
 
-    Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after      committing to a chat message.
+    Action bar keybinds are no longer slightly delayed after exiting various interfaces. 
+    The short delay still remains after committing to a chat message.
     Fixed an issue with clan noticeboard 'thread ID paste' causing a crash/loss of functionality on mobile.
     The broadcast for a HSR drop will now be displayed in areas where this was previously missed.
     Fixed a bug that made enemies in GWD2 impossible to kill.
     Can now pick up a stackable relic from the ground with a full inventory containing the stackable item.
     Fixed an issue that stopped players completing The Mighty Fall.
-    Mixing a Harralander potion with only swordfish in your inventory will now make a cooking potion without opening the interface.
+    Mixing a Harralander potion with only swordfish in your inventory will now make a cooking potion without 
+    opening the interface.
     Fixed an issue with dinosaur leather not being recognized as usable against a portable crafter.
     Removed [ph] item from the GE.
     Corrected an issue where the Content Recommendation System could display a blank Latest Quest.
-    Players are no longer able to use the lockers in Rimmington if they haven't been unlocked via partial completion of the Rocking Out quest.
+    Players are no longer able to use the lockers in Rimmington if they haven't been unlocked via 
+    partial completion of the Rocking Out quest.
     Hatchets now correctly give four components per bar used in the making of them when disassembled.
     A worn Zamorak insignia will now stop Zamorak's forces attacking you within God Wars Dungeon 1.
     Fixed an issue that allowed a large number of broken/degraded items to be equipped via the bank.
