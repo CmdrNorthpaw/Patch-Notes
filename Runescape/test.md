@@ -7,12 +7,24 @@
 	<center><i>Want to share feedback? Why not make a post in our <a href="https://secure.runescape.com/m=forum/a=13/c=Fq8eu7w2-Ss/forums?442,443,57,66143681">forum</a>!
 <br>Run into an issue? Click <a href="https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug#RS">here</a> to find out how you can let us know!</i></center>
 	<p></p>
+		<br>
+		<br>
+		<br>
 	<hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 	<div class="category">
 		<div class="legenda">
 <a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="32" height="auto">Once Upon a Slime</a><a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto">Combat</a><a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto">Mining</a><a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Other</a><a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">Bug Fixes</a></div></div>
 </div>
+		<br>
+		<br>
+		<br>
 <hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 <div class="articleContentText">
 	<div class="category">
 			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" align="left">Once Upon a Slime</h3>
@@ -24,6 +36,13 @@
 		<li>Fixed a typo that occurs in the Once Upon A Slime quest.</li>
 		<li>Completing the quest will now allow players to re-equip their Comp Capes without having to log back in.</li>
 	</div>
+		<br>
+		<br>
+		<br>
+<hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 	<div class="category">
 		<div class="category-heading" id="combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto" align="left">
 			<h3>Combat</h3></div>
@@ -34,6 +53,13 @@
 		<li>Players can no longer receive the first two bosses from Elite Dungeons as Reaper assignments.</li>
 		<li>Fixed a bug that allowed players' to walk inside the portals.</li>
 	</div>
+		<br>
+		<br>
+		<br>
+<hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 	<div class="category">
 			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto" align="left">Mining</h3>
 		<div class="context">
@@ -44,12 +70,26 @@
 		<li>*0% stamina = 20% damage</li>
 		<li>Players only chasing rockertunities should now find their rates similar to before</li>
 	</div>
+		<br>
+		<br>
+		<br>
+<hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 	<div class="category">
 			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto" align="left">Other</h3>
 		<li>Pushed a number of server-side optimisations and futureproofing measures for Diango's item storage.</li>
 		<li>The Winter Chill off has now been removed from the Lumbridge Crater.</li>
 		<li>The uncompressed textures setting has been re-enabled.</li>
 	</div>
+		<br>
+		<br>
+		<br>
+<hr style="margin-bottom:15px;margin-top: 15px;">
+		<br>
+		<br>
+		<br>
 	<div class="category">
 			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto" align="left">Bug Fixes</h3>
 		<div class="context">
@@ -73,8 +113,12 @@
 		<li>Fixed an issue that allowed a large number of broken/degraded items to be equipped via the bank.</li>
 		<li>The Prosper perk from the Invention skill now states which level of clue you obtain when it activates.</li>
 		<br>
+		<br>
+		<br>
 		<a href="#news">Back to Top ↑</a>
-
+		<br>
+		<br>
+		<br>
 <hr style="margin-bottom:15px;margin-top: 15px;">
 <div class="context">
         <p>We also hope you enjoyed the changes we've made to the Patch Notes this week! We're looking forward to hearing your thoughts.</p>
