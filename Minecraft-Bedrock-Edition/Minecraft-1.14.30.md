@@ -18,18 +18,22 @@ General:
 Gameplay:
         
         Auto-jump will no longer trigger unexpectedly when trying to walk through open doors (MCPE-52213)
-            Further fixes will be made in the future to allow auto-jump to work more consistently, for example, when trying to jump up one block through an open door
+        Further fixes will be made in the future to allow auto-jump to work more consistently, for example, when trying to jump up one block through an open door
 
-    Blocks
+Blocks:
+        
         Restored kelp growth to its proper, faster rate (MCPE-57330)
         Bamboo in Flower Pots are no longer empty after converting a world from Editions
 
-    Items
+Items:
+        
         Crafting multiple Honey Blocks now returns the correct amount of empty glass bottles on a 2x2 grid (MCPE-58579)
 
-    User Interface
+User Interface:
+
         The 'Sign In' button is now scaled properly on all platforms
         Fixed placeholder text appearing on the pause menu when hosting a game without an internet connection
 
-    Add-Ons
+ Add-Ons:
+ 
         Entities no longer stop moving when the 'circle_around_anchor' behavior is added via a component group added by an event and/or there was a block close to their hitbox
