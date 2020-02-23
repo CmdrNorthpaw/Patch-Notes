@@ -53,7 +53,7 @@ Systems:
 
         Now rewards 10 per stack.
 
-    Improved "The Best Diplomat" Starship Trait:
+Improved "The Best Diplomat" Starship Trait:
 
         Swapped the increased Damage to increased Bonus Damage
 
@@ -61,6 +61,6 @@ Systems:
 
         Overall performance significantly improved.
 
-    Resolved an issue where Adaptive Offense was incorrectly calculating its values.
+Resolved an issue where Adaptive Offense was incorrectly calculating its values.
 
-    The "Scramble Fighters" and "Fiery Entrance" Starship Traits should no longer put ships that use them into Combat, if not already in Combat.
+The "Scramble Fighters" and "Fiery Entrance" Starship Traits should no longer put ships that use them into Combat, if not already in Combat.
