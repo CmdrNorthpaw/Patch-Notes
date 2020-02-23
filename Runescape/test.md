@@ -1,17 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-div {
-  border: 1px solid black;
-  background-color: lightblue;
-  padding-left: 20px;
-  padding-right: 10px;
-  padding-top: 10px;
-  padding-bottom: 10px;
+<div style="border:1px;padding-left:20px;padding-right:10px;padding-top:10px;padding-bottom:10px;">
 		<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
 		<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
-</style>
 </head>
 <body>
 	<p align="center">
