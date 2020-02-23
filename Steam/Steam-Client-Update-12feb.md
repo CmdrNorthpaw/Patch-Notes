@@ -10,7 +10,8 @@ Library
     Fixed "Load More Activity" button not loading more activity
     Fixed some display errors for soundtracks with track names containing unusual characters
     Added support for playing back soundtracks containing .m4a content
-    When installing a game, Steam will now immediately sync your Steam Cloud files in the background instead of waiting potentially until the first launch of the game.
+    When installing a game, Steam will now immediately sync your Steam Cloud files 
+    in the background instead of waiting potentially until the first launch of the game.
     Minor layout and visual changes
     Stop showing "library in use" message for non-Steam games when a shared library is being used
 
@@ -27,7 +28,8 @@ Big Picture
 
 SteamVR
 
-    Hide games hidden by Family View from SteamVR (prevents them from showing up in SteamVR Home and other VR quick launch game lists).
+    Hide games hidden by Family View from SteamVR (prevents them from showing up in SteamVR Home and 
+    other VR quick launch game lists).
     Hide automatically created VR shortcuts when the original manifest has marked them hidden.
     Mark hidden shortcuts to VR games as hidden in manifests created by Steam.
     Steam overlay will now show download status when starting an application that is updating or installing.
