@@ -1,10 +1,13 @@
 PLEASE READ before participating in the Minecraft Beta:
 
     Joining the beta will replace your game with a work in progress version of Minecraft
-    You will not have access to Realms and will not be able to join non-beta players while you're previewing the beta
-    Any worlds played while in the beta cannot be opened in previous versions of the game so please make copies of worlds to prevent losing them
+    You will not have access to Realms and will not be able to join non-beta players while you're previewing 
+    the beta.
+    Any worlds played while in the beta cannot be opened in previous versions of the game so please make 
+    copies of worlds to prevent losing them.
     Beta builds can be unstable and are not representative of final version quality
-    The beta is available only on Xbox One, Windows 10, and Android (Google Play). To join or leave the beta, see ms/JoinMCBeta for detailed instructions
+    The beta is available only on Xbox One, Windows 10, and Android (Google Play). 
+    To join or leave the beta, see ms/JoinMCBeta for detailed instructions
 
 Parity:
 
@@ -15,39 +18,49 @@ Parity:
     Item sprites are now data-driven
     The Drowned mobs are now data-driven
 
- Fixes:
+Fixes:
 
-    Crashes/Performance
+Crashes/Performance:
+
         Fixed several crashes that could occur during gameplay
         Optimised key frame animation playback
         Optimised performance when breaking lots of Kelp plants
 
-    Accessibility
+Accessibility:
+
         The text-to-speech reader now reads URLs properly
 
-    General
+General:
+
         Lingering and Splash Potion particles now stay within their boundaries when in a confined space
         Fixed a bug that prevented repeating and chain Command Blocks from being opened (MCPE-63252)
         Cakes now have the correct texture states when partially eaten (MCPE-14757) 
 
-    Gameplay
-        Fixed an issue that would cause a 'phantom' water block to appear when placing water on a fire near a sponge block (MCPE-57063)
+Gameplay:
+
+        Fixed an issue that would cause a 'phantom' water block to appear when placing water on a fire near
+        a sponge block (MCPE-57063)
         Fixed an issue where water from bubble columns could not be collected (MCPE-37571)
         Stacked mine carts that occupy the same space will now load and unload as expected (MCPE-54244)
         Walking on scaffolding now makes correct sounds (MCPE-53279) 
+Mobs:
 
-    Mobs
         Mobs now consistently take damage when spawning on magma blocks (MCPE-47518)
 
-    Graphical
+Graphical:
+
         Fixed an issue that would cause armour to unexpectedly render on mobs when being held in its hand
 
-    Add-Ons
-        Custom entities that use the runtime identifier field now use the custom entity's name rather than the vanilla entity's name (MCPE-56229)
+Add-Ons:
+
+        Custom entities that use the runtime identifier field now use the custom entity's name rather
+        than the vanilla entity's name (MCPE-56229)
         Dispensed splash and lingering potions now have potion effects in their projectile component
         Fixed collision box not updating from script
         The "damage_sensor" component will now work on non-Mob actors (such as Ender Crystals) 
         A mob spawned in the air will no longer think it's on the ground once its movement is ticked 
 
-    Character Creator
-        Fixed an issue that meant some character creator selections would not be saved between sessions (MCPE-32089)
+Character Creator:
+
+        Fixed an issue that meant some character creator selections would not be saved between 
+        sessions (MCPE-32089)

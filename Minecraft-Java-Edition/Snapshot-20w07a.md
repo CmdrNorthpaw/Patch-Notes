@@ -11,7 +11,8 @@ Features in 20w07a
     Gave Hoglins some actual functionality
     Added Piglins
     The Wither can now be summoned using soul soil as base
-    Netherite blocks can be used as the base of a beacon and Netherite ingots can be used as the fuel for a beacon. Weird flex but ok.
+    Netherite blocks can be used as the base of a beacon and Netherite ingots can be used as the 
+    fuel for a beacon. Weird flex but ok.
 
 Advancements
 
