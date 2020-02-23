@@ -38,7 +38,7 @@ No one likes encounter bugs when they play, so each week we do our best to squas
 
 Fixes labelled Hotfix were addressed between weekly releases.
 
-    Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after committing to a chat message.
+    Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after      committing to a chat message.
     Fixed an issue with clan noticeboard 'thread ID paste' causing a crash/loss of functionality on mobile.
     The broadcast for a HSR drop will now be displayed in areas where this was previously missed.
     Fixed a bug that made enemies in GWD2 impossible to kill.
