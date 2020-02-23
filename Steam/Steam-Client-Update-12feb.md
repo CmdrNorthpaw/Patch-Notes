@@ -20,9 +20,12 @@ Big Picture
 
     Fix issue with the Big Picture Overlay in games w/ launchers
     Fixed crash when viewing Community Connect in Library
-    Fix an issue where the on-screen keyboard would not work with mouse or touch input when a controller is attached
-    Add a Capslock/Altlock mode to the on-screen keyboard which is enabled by double tapping the shift/alt keys.
-    Remove the “Turn Off Controller” option from the power button menu for controllers which don’t support the feature
+    Fix an issue where the on-screen keyboard would not work with mouse or touch input when a controller is 
+    attached
+    Add a Capslock/Altlock mode to the on-screen keyboard which is enabled by 
+    double tapping the shift/alt keys.
+    Remove the “Turn Off Controller” option from the power button menu for controllers which don’t support the 
+    feature
     Add filter a for Steam Play white-listed games to the Big Picture Library’s filter list on Linux
 
 
@@ -45,12 +48,15 @@ macOS
 
 Remote Play Together
 
-    Added ability to invite players by dragging them from the friend's list into the Remote Play Together window.
+    Added ability to invite players by dragging them from the friend's list into the 
+    Remote Play Together window.
 
 
 Steam Link
 
-    When a Steam Link connects, the default view is recent games that are optimized for the connecting device. This can be changed in the advanced streaming settings on the Steam Link app or hardware.
+    When a Steam Link connects, the default view is recent games that 
+    are optimized for the connecting device. This can be changed in the advanced streaming settings 
+    on the Steam Link app or hardware.
 
 
 Linux
