@@ -28,7 +28,8 @@ Blocks:
 
 Items:
         
-        Crafting multiple Honey Blocks now returns the correct amount of empty glass bottles on a 2x2 grid (MCPE-58579)
+        Crafting multiple Honey Blocks now returns the correct amount of empty glass bottles on a 
+        2x2 grid (MCPE-58579)
 
 User Interface:
 
@@ -37,4 +38,5 @@ User Interface:
 
  Add-Ons:
  
-        Entities no longer stop moving when the 'circle_around_anchor' behavior is added via a component group added by an event and/or there was a block close to their hitbox
+        Entities no longer stop moving when the 'circle_around_anchor' behavior is added via a component group 
+        added by an event and/or there was a block close to their hitbox
