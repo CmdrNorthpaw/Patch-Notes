@@ -1,6 +1,3 @@
-(setq markdown-css-paths '("/custom.css"))
-
-
 <div id="article-top" name="article-top" class="clockwork">
 	<div class="context">
 		<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
@@ -23,8 +20,7 @@
 </div>
 <div class="articleContentText">
 	<div class="category">
-		<div class="category-heading" id="onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png">
-			<h3>Once Upon a Slime</h3></div>
+			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" align="left">Once Upon a Slime</h3>
 		<p><img style="border-width: 5px; box-shadow: 0px 0px 30px black;" src="https://cdn.runescape.com/assets/img/external/news/2020/02/patch_notes/Once_Upon_A_Slime.png" width="580" height="auto"></p>
 		<div class="context">
 			<p>Have you helped King Slime find love yet? It's not too late! </p>
@@ -34,7 +30,7 @@
 		<li>Completing the quest will now allow players to re-equip their Comp Capes without having to log back in.</li>
 	</div>
 	<div class="category">
-		<div class="category-heading" id="combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto">
+		<div class="category-heading" id="combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="32" height="auto" align="left">
 			<h3>Combat</h3></div>
 		<p><img style="border-width: 5px; box-shadow: 0px 0px 30px black;" src="https://cdn.runescape.com/assets/img/external/news/2020/02/patch_notes/PVM.png" width="580" height="auto"></p>
 		<div class="context">
@@ -44,8 +40,7 @@
 		<li>Fixed a bug that allowed players' to walk inside the portals.</li>
 	</div>
 	<div class="category">
-		<div class="category-heading" id="mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto">
-			<h3>Mining</h3></div>
+			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="32" height="auto" align="left">Mining</h3>
 		<div class="context">
 			<p>Semi-active miners were unintentionally impacted by a change to AFK mining rates. To remedy this we have adjusted the rates as follows:</p>
 		</div>
@@ -55,15 +50,13 @@
 		<li>Players only chasing rockertunities should now find their rates similar to before</li>
 	</div>
 	<div class="category">
-		<div class="category-heading" id="other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">
-			<h3>Other</h3></div>
+			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto" align="left">Other</h3>
 		<li>Pushed a number of server-side optimisations and futureproofing measures for Diango's item storage.</li>
 		<li>The Winter Chill off has now been removed from the Lumbridge Crater.</li>
 		<li>The uncompressed textures setting has been re-enabled.</li>
 	</div>
 	<div class="category">
-		<div class="category-heading" id="bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto">
-			<h3>Bug Fixes</h3></div>
+			<h3><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="32" height="auto" align="left">Bug Fixes</h3>
 		<div class="context">
 			<p>No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
 				<br>
