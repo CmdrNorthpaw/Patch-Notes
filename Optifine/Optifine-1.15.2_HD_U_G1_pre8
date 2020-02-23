@@ -1,0 +1,6 @@
+ OptiFine 1.15.2_HD_U_G1_pre8
+ - not working: shaders, antialiasing, anisotropic filtering and render regions
+ - fixed custom sky and fog colormaps
+ - fixed Dynamic Lights not illuminating player
+ - fixed Dynamic Lights with Smooth Lighting OFF
+ - not compatible with Forge
