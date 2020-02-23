@@ -80,13 +80,9 @@
 		<br>
 		<a href="#news">Back to Top ↑</a>
 
-		<hr style="margin-bottom:15px;margin-top: 15px;">
-		<div class="context">
-			<p>We also hope you enjoyed the changes we've made to the Patch Notes this week! We're looking forward to hearing your thoughts.</p>
-			<p>Catch you next time!</p>
-		</div>
-	</div>
-	<hr style="margin-bottom:15px;margin-top: 15px;">
-	<p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
+    <div class="context">
+        <p>We also hope you enjoyed the changes we've made to the Patch Notes this week! We're looking forward to hearing your thoughts.</p>
+        <p>Catch you next time!</p>
+    </div>
 </div>
-</div>
+<p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
