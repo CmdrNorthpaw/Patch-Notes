@@ -12,7 +12,8 @@ General:
         Split-screen will now display a message to join when the main controller is disconnected
         Realms can no longer be purchased if not logged into Xbox Live
         Players that are not linked to a Nintendo account on Switch are once again able to edit characters
-        Fixed an issue where joinable friends on Nintendo Switch were still visible after the world has been closed
+        Fixed an issue where joinable friends on Nintendo Switch were still visible after the world has been 
+        closed
 
 Gameplay:
         
