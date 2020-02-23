@@ -19,7 +19,7 @@ Death can be difficult to work with, even at the best of times.
 
 Mining:
 
-Semi-active miners were unintentionally impacted by a change to AFK mining rates. To remedy this we have adjusted the rates as follows:
+Semi-active miners were unintentionally impacted by a change to AFK mining rates. To remedy this we have adjusted the rates as follows
 
     *100% stamina = 100% damage
     *1-99% stamina = 90% damage
