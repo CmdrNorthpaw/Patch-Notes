@@ -62,4 +62,5 @@ Add-Ons:
 
 Character Creator:
 
-        Fixed an issue that meant some character creator selections would not be saved between sessions (MCPE-32089)
+        Fixed an issue that meant some character creator selections would not be saved between 
+        sessions (MCPE-32089)
