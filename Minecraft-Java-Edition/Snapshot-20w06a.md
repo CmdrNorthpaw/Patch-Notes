@@ -60,7 +60,8 @@ Netherite effects:
     Netherite tools work faster and last longer than diamond
     Netherite weapons do more damage than diamond
     Netherite armor have higher toughness and durability than diamond
-    Netherite armor gives you knockback resistance, so you barely get knocked back at all when hit by arrows and such
+    Netherite armor gives you knockback resistance, so you barely get knocked back at all when hit by 
+    arrows and such
     ...and it looks cool!
 
 Soulsand Valley:
@@ -173,7 +174,7 @@ Fixed bugs in 20w06a:
 
 Minecraft Wiki Link: https://minecraft.gamepedia.com/Java_Edition_20w06a
 
-Get the snapshot
+Get the snapshot:
 
 To install the snapshot, open up the Minecraft Launcher and enable snapshots in the "Installations" tab.
 
