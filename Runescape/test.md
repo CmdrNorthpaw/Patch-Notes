@@ -1,6 +1,6 @@
 <div id="article-top" name="article-top" class="clockwork">
-<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
-<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
+	<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
+	<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
 </div>
 <div>
 	</br>
