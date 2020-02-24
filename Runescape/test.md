@@ -14,18 +14,18 @@
 <br>Run into an issue? Click <a href="https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug#RS">here</a> to find out how you can let us know!</i>
 	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
-<div class="category">
+<div>
 <table width="1468" align="center">
 <tr width="1468" align="center">
-    <th><a class="legenda-item" href="#once-upon-a-slime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
-    <td align="center"></td>
-    <th><a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a></th>
-    <td align="center"></td>
-    <th><a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="16" height="auto">Mining</a></th>
-    <td align="center"></td>
-    <th><a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Other</a></th>
-    <td align="center"></td>
-    <th><a class="legenda-item" href="#bug-fixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></th>
+    <th><a href="#once-upon-a-slime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
+    <td></td>
+    <th><a href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a></th>
+    <td></td>
+    <th><a href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="16" height="auto">Mining</a></th>
+    <td></td>
+    <th><a href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Other</a></th>
+    <td></td>
+    <th><a href="#bug-fixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></th>
 </tr>
 </table>
 </div>
