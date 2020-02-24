@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-	<html>
-		<head>
-			<div id="article-top" name="article-top" class="clockwork">
-			<div class="context">
-				<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
-				<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
-			</div>
-		</head>
-	<body>
+<div id="article-top" name="article-top" class="clockwork">
+<p>Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!</p>
+<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
+</div>
 <div>
 	</br>
 		<p align="center">
@@ -140,6 +134,4 @@
 			</div>
 		<hr style="margin-bottom:15px;margin-top: 15px;">
 	<p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
-</body>
-</html>
 
