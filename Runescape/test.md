@@ -15,7 +15,7 @@
 	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
 <div class="category">
-<table style="width:auto">
+<table style="width:auto;margin-left:auto;margin-right:auto;">
   <tr>
     <th><a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
     <td></td>
