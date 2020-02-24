@@ -15,8 +15,8 @@
 	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
 <div>
-<table width="1468" align="center">
-<tr width="1468" align="center">
+<table align="center">
+<tr align="center">
     <th><a href="#once-upon-a-slime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
     <td></td>
     <th><a href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a></th>
