@@ -63,7 +63,7 @@ Systems:
     Undine and Borg ships.
 
    * Resolved an issue that caused Transcranial Sensor Link to reward less Shield Penetration than intended.
-    * Now rewards 10 per stack.
+     * Now rewards 10 per stack.
 
 Improved "The Best Diplomat" Starship Trait:
 
