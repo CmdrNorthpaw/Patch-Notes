@@ -105,7 +105,9 @@ Commands:
 
 New command that locates a specified biome. Useful in creative mode when you’re
 looking for a specific biome and don’t want to fly around randomly searching for it.
+
 Syntax: _locatebiome <biome>_
+
 Parameters:
 
   * biome - The id of the biome to find
