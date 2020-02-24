@@ -124,41 +124,41 @@ Fixed bugs in 20w06a:
 
   * [MC-17431](https://bugs.mojang.com/browse/MC-17431) - Shift-clicking stacked items with a data tag into the enchanting table GUI removes data tags from the moved item
   * [MC-45619](https://bugs.mojang.com/browse/MC-45619) - Water, Signs, Vines, Torches etc. in the same block as item frame break item frame’s redstone signal
-  * [MC-52178]() - Cape doesn’t move down while sneaking / Cape detaches from body while sneaking
-  * [MC-59363]() - Items in item frames are deleted if both mouse buttons are used simultaneously
-  * [MC-82235]() - Baby pigs turn into adult zombie pigmen when struck by lightning
-  * [MC-92889]() - Mending doesn’t always consume experience if the player wears items with mending that are already fully repaired
-  * [MC-93198]() - Throwing potions / throwable projectiles causes both hands to bob up and down
-  * [MC-93631]() - Pistons pop off blocks attached to their back when retracting
-  * [MC-96436]() - Eggs/snowballs/xp-bottles break instantly when thrown while riding a horse
-  * [MC-97958]() - Small slime has no jump or squish sound
-  * [MC-103655]() - Cats don’t stand up when using right click on them while they’re sitting on chests or beds
-  * [MC-109370]() - Bottom face of column blocks are rotated 180 degrees
-  * [MC-109844]() - en_us.json contains unused strings
+  * [MC-52178](https://bugs.mojang.com/browse/MC-52178) - Cape doesn’t move down while sneaking / Cape detaches from body while sneaking
+  * [MC-59363](https://bugs.mojang.com/browse/MC-59363) - Items in item frames are deleted if both mouse buttons are used simultaneously
+  * [MC-82235](https://bugs.mojang.com/browse/MC-82235) - Baby pigs turn into adult zombie pigmen when struck by lightning
+  * [MC-92889](https://bugs.mojang.com/browse/MC-92889) - Mending doesn’t always consume experience if the player wears items with mending that are already fully repaired
+  * [MC-93198](https://bugs.mojang.com/browse/MC-93198) - Throwing potions / throwable projectiles causes both hands to bob up and down
+  * [MC-93631](https://bugs.mojang.com/browse/MC-93631) - Pistons pop off blocks attached to their back when retracting
+  * [MC-96436](https://bugs.mojang.com/browse/MC-96436) - Eggs/snowballs/xp-bottles break instantly when thrown while riding a horse
+  * [MC-97958](https://bugs.mojang.com/browse/MC-97958) - Small slime has no jump or squish sound
+  * [MC-103655](https://bugs.mojang.com/browse/MC-103655) - Cats don’t stand up when using right click on them while they’re sitting on chests or beds
+  * [MC-109370](https://bugs.mojang.com/browse/MC-109370) - Bottom face of column blocks are rotated 180 degrees
+  * [MC-109844](https://bugs.mojang.com/browse/MC-109844) - en_us.json contains unused strings
   * [MC-109850]() - Redstone wire doesn’t have a bottom texture
   * [MC-112630]() - Carrot on a stick cannot be broken
   * [MC-113381]() - Falling dust particles of anvil and concrete powder blocks are black
-  * [MC-120335]() - Flower pot bottom texture is not rendered because of incorrect “uv” values in the model file
-  * [MC-131440]() - The message for trying to sleep at the wrong time implies that you can only sleep at night during a thunderstorm
-  * [MC-131770]() - Rain particles appear one block below the water or lava surface
-  * [MC-132607]() - Splitting slimes and magma cubes do not copy NoAI value
-  * [MC-134162]() - Item entities can break turtle eggs
-  * [MC-136868]() - Ignited TNT, arrow or trident turns black when it falls on soul sand or snow layers
-  * [MC-138600]() - Cats don’t bring gifts if they have already decided to sit on your bed
-  * [MC-140544]() - Pickaxes don’t speed up piston breaking
-  * [MC-148474]() - Sloped powered detector rails break when pushed or pulled by a piston
-  * [MC-149052]() - Stonecutter recipe list doesn’t show item tooltips
-  * [MC-149776]() - Cartography Table requires string for the recipe to show up in the recipe book
-  * [MC-150020]() - Composter is in the “Miscellaneous” category instead of “Decoration” like the other workstation blocks
-  * [MC-154867]() - Tamed cats remain sitting if the world is reloaded while the cat is sitting on a chest
-  * [MC-158807]() - You can remove cursed enchantments on items by repairing them in inventory
-  * [MC-159300]() - Villagers that have been infected by a zombie can despawn, even if they have been traded with
-  * [MC-159773]() - Shulkers can teleport to non-solid faces, and don’t teleport to some solid faces
-  * [MC-159918]() - Foxes don’t run from polar bears
-  * [MC-159963]() - Minecarts can break turtle eggs
-  * [MC-160897]() - Dropping an item using the drop key displays the hand animation but dropping items from within the inventory does not
-  * [MC-160902]() - Arm swings when right-clicking on full minecart
-  * [MC-161156]() - Silverfish and endermites appear black on soul sand
+  * [MC-120335](https://bugs.mojang.com/browse/MC-120335) - Flower pot bottom texture is not rendered because of incorrect “uv” values in the model file
+  * [MC-131440](https://bugs.mojang.com/browse/MC-131440) - The message for trying to sleep at the wrong time implies that you can only sleep at night during a thunderstorm
+  * [MC-131770](https://bugs.mojang.com/browse/MC-131770) - Rain particles appear one block below the water or lava surface
+  * [MC-132607](https://bugs.mojang.com/browse/MC-132607) - Splitting slimes and magma cubes do not copy NoAI value
+  * [MC-134162](https://bugs.mojang.com/browse/MC-134162) - Item entities can break turtle eggs
+  * [MC-136868](https://bugs.mojang.com/browse/MC-136868) - Ignited TNT, arrow or trident turns black when it falls on soul sand or snow layers
+  * [MC-138600](https://bugs.mojang.com/browse/MC-138600) - Cats don’t bring gifts if they have already decided to sit on your bed
+  * [MC-140544](https://bugs.mojang.com/browse/MC-140544) - Pickaxes don’t speed up piston breaking
+  * [MC-148474](https://bugs.mojang.com/browse/MC-148474) - Sloped powered detector rails break when pushed or pulled by a piston
+  * [MC-149052](https://bugs.mojang.com/browse/MC-149052) - Stonecutter recipe list doesn’t show item tooltips
+  * [MC-149776](https://bugs.mojang.com/browse/MC-149776) - Cartography Table requires string for the recipe to show up in the recipe book
+  * [MC-150020](https://bugs.mojang.com/browse/MC-150020) - Composter is in the “Miscellaneous” category instead of “Decoration” like the other workstation blocks
+  * [MC-154867](https://bugs.mojang.com/browse/MC-154867) - Tamed cats remain sitting if the world is reloaded while the cat is sitting on a chest
+  * [MC-158807](https://bugs.mojang.com/browse/MC-158807) - You can remove cursed enchantments on items by repairing them in inventory
+  * [MC-159300](https://bugs.mojang.com/browse/MC-159300) - Villagers that have been infected by a zombie can despawn, even if they have been traded with
+  * [MC-159773](https://bugs.mojang.com/browse/MC-159773) - Shulkers can teleport to non-solid faces, and don’t teleport to some solid faces
+  * [MC-159918](https://bugs.mojang.com/browse/MC-159918) - Foxes don’t run from polar bears
+  * [MC-159963](https://bugs.mojang.com/browse/MC-159963) - Minecarts can break turtle eggs
+  * [MC-160897](https://bugs.mojang.com/browse/MC-160897) - Dropping an item using the drop key displays the hand animation but dropping items from within the inventory does not
+  * [MC-160902](https://bugs.mojang.com/browse/MC-160902) - Arm swings when right-clicking on full minecart
+  * [MC-161156](https://bugs.mojang.com/browse/MC-161156) - Silverfish and endermites appear black on soul sand
   * [MC-161259]() - Using the carrot on a stick while riding a pig plays no hand animation
   * [MC-162881]() - Composter doesn’t display particles when being fed composting items through a hopper
   * [MC-163286]() - /setblock ~ ~ ~ air destroy does not destroy liquids
@@ -172,7 +172,7 @@ Fixed bugs in 20w06a:
   * [MC-169679]() - Composters do not make sounds when fed by hoppers
   * [MC-169692]() - Entity shadow floats slightly above the ground
   * [MC-169832]() - Transparent item models have inconsistent rendering when a glowing entity is present
-  * [MC-170128]() - Cannot build an EntityType without a datafixer due to an IllegalArgumentExceptiom
+  * [MC-170128](https://bugs.mojang.com/browse/MC-170128) - Cannot build an EntityType without a datafixer due to an IllegalArgumentExceptiom
   
 Minecraft Wiki Link: https://minecraft.gamepedia.com/Java_Edition_20w06a
 
