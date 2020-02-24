@@ -7,17 +7,17 @@ Ahh, a freshly baked snapshot! It undoubtedly smells better than the piglins tha
 
 Features in 20w07a:
 
-    * Endermen can now pick up some of the new Nether blocks
-    * Endermen will no longer pick up Netherrack
-    * Gave Hoglins some actual functionality
-    * Added Piglins
-    * The Wither can now be summoned using soul soil as base
-    * Netherite blocks can be used as the base of a beacon and Netherite ingots can be used as the fuel for a beacon. Weird flex but ok.
+   * Endermen can now pick up some of the new Nether blocks
+   * Endermen will no longer pick up Netherrack
+   * Gave Hoglins some actual functionality
+   * Added Piglins
+   * The Wither can now be summoned using soul soil as base
+   * Netherite blocks can be used as the base of a beacon and Netherite ingots can be used as the fuel for a beacon. Weird flex but ok.
   
 
 Advancements:
 
-    Piglins and Hoglins are now required for Monster Hunter and Monsters Hunted
+   * Piglins and Hoglins are now required for Monster Hunter and Monsters Hunted
 
 Hoglins:
 
