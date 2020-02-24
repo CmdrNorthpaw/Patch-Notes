@@ -51,38 +51,38 @@ Piglins:
 
 Fixed bugs in 20w07a:
 
-  *  [MC-65951]() - Armor stands fall through fences
-  *  [MC-75328]() - /clear doesn’t clear items in the inventory crafting grid
-  *  [MC-79944]() - Various statistics overflow at 32-bit integer limit
-  *  [MC-89043]() - Slime blocks moved by pistons often fail to bounce up the player
-  *  [MC-93813]() - Snow golems throwing snowballs play arrow shooting sound
-  *  [MC-94094]() - Snow golems don’t drop their pumpkin when sheared
-  *  [MC-94730]() - Endermen become passive when teleporting randomly during day while being aggressive
-  *  [MC-132967]() - Mushrooms show as green dots on map
-  *  [MC-133088]() - Missing translation string death.attack.magic.player
-  *  [MC-135034]() - Burning mobs are extinguished by snow in cold biomes, but not in snowy biomes
-  *  [MC-148067]() - Snow Golems Damaged by Snowfall in Mountain/Cold Biomes
-  *  [MC-155977]() - Enchanting a book makes the book lose its name
-  *  [MC-160053]() - Enderman keeps following the player after becoming neutral/passive
-  *  [MC-166245]() - No sound for shearing snow golems
-  *  [MC-167561]() - All players can make a dog stand up or sit down
-  *  [MC-167692]() - Infested blocks don’t spawn silverfish when blown up
-  *  [MC-170816]() - Debug Pie freezes in place when closing F3 menu and stays there
-  *  [MC-170846]() - Stacked walls create pillars when they should not, depending on the order of placement
-  *  [MC-170848]() - Hoglin and zombie pigman spawn eggs look identical
-  *  [MC-170849]() - Hoglin’s hitbox is way too small
-  *  [MC-170852]() - Breaking a warped or crimson doors drops two items in Survival mode
-  *  [MC-170862]() - Soul “Lights” do not update walls
-  *  [MC-170869]() - Soul fire lantern animation missing
-  *  [MC-170881]() - Fire doesn’t burn items
-  *  [MC-170886]() - Alt+F3 debug graph no longer functions
-  *  [MC-170899]() - Netherite cannot power beacons
-  *  [MC-170939]() - Walls don’t create pillars with string / tripwire above
-  *  [MC-170951]() - Cannot teleport entities outside of the world
-  *  [MC-171023]() - Walls don’t stack properly in some directions when placed next to blocks
-  *  [MC-171211]() - Observers no longer detect a piston base starting to retract
-  *  [MC-171333]() - Killing a hoglin does not grant the ‘Monster Hunter’/‘Monsters Hunted’ advancements
-  *  [MC-172025]() - Several misrotated blocks at snowy_medium_house_2
+  *  [MC-65951](https://bugs.mojang.com/browse/MC-65951) - Armor stands fall through fences
+  *  [MC-75328](https://bugs.mojang.com/browse/MC-75328) - /clear doesn’t clear items in the inventory crafting grid
+  *  [MC-79944](https://bugs.mojang.com/browse/MC-79944) - Various statistics overflow at 32-bit integer limit
+  *  [MC-89043](https://bugs.mojang.com/browse/MC-89043) - Slime blocks moved by pistons often fail to bounce up the player
+  *  [MC-93813](https://bugs.mojang.com/browse/MC-93813) - Snow golems throwing snowballs play arrow shooting sound
+  *  [MC-94094](https://bugs.mojang.com/browse/MC-94094) - Snow golems don’t drop their pumpkin when sheared
+  *  [MC-94730](https://bugs.mojang.com/browse/MC-94730) - Endermen become passive when teleporting randomly during day while being aggressive
+  *  [MC-132967](https://bugs.mojang.com/browse/MC-132967) - Mushrooms show as green dots on map
+  *  [MC-133088](https://bugs.mojang.com/browse/MC-133088) - Missing translation string death.attack.magic.player
+  *  [MC-135034](https://bugs.mojang.com/browse/MC-135034) - Burning mobs are extinguished by snow in cold biomes, but not in snowy biomes
+  *  [MC-148067](https://bugs.mojang.com/browse/MC-148067) - Snow Golems Damaged by Snowfall in Mountain/Cold Biomes
+  *  [MC-155977](https://bugs.mojang.com/browse/MC-155977) - Enchanting a book makes the book lose its name
+  *  [MC-160053](https://bugs.mojang.com/browse/MC-160053) - Enderman keeps following the player after becoming neutral/passive
+  *  [MC-166245](https://bugs.mojang.com/browse/MC-166245) - No sound for shearing snow golems
+  *  [MC-167561](https://bugs.mojang.com/browse/MC-167561) - All players can make a dog stand up or sit down
+  *  [MC-167692](https://bugs.mojang.com/browse/MC-167692) - Infested blocks don’t spawn silverfish when blown up
+  *  [MC-170816](https://bugs.mojang.com/browse/MC-170816) - Debug Pie freezes in place when closing F3 menu and stays there
+  *  [MC-170846](https://bugs.mojang.com/browse/MC-170846) - Stacked walls create pillars when they should not, depending on the order of placement
+  *  [MC-170848](https://bugs.mojang.com/browse/MC-170848) - Hoglin and zombie pigman spawn eggs look identical
+  *  [MC-170849](https://bugs.mojang.com/browse/MC-170849) - Hoglin’s hitbox is way too small
+  *  [MC-170852](https://bugs.mojang.com/browse/MC-170852) - Breaking a warped or crimson doors drops two items in Survival mode
+  *  [MC-170862](https://bugs.mojang.com/browse/MC-170862) - Soul “Lights” do not update walls
+  *  [MC-170869](https://bugs.mojang.com/browse/MC-170869) - Soul fire lantern animation missing
+  *  [MC-170881](https://bugs.mojang.com/browse/MC-170881) - Fire doesn’t burn items
+  *  [MC-170886](https://bugs.mojang.com/browse/MC-170886) - Alt+F3 debug graph no longer functions
+  *  [MC-170899](https://bugs.mojang.com/browse/MC-170899) - Netherite cannot power beacons
+  *  [MC-170939](https://bugs.mojang.com/browse/MC-170939) - Walls don’t create pillars with string / tripwire above
+  *  [MC-170951](https://bugs.mojang.com/browse/MC-170951) - Cannot teleport entities outside of the world
+  *  [MC-171023](https://bugs.mojang.com/browse/MC-171023) - Walls don’t stack properly in some directions when placed next to blocks
+  *  [MC-171211](https://bugs.mojang.com/browse/MC-171211) - Observers no longer detect a piston base starting to retract
+  *  [MC-171333](https://bugs.mojang.com/browse/MC-171333) - Killing a hoglin does not grant the ‘Monster Hunter’/‘Monsters Hunted’ advancements
+  *  [MC-172025](https://bugs.mojang.com/browse/MC-172025) - Several misrotated blocks at snowy_medium_house_2
 
 Minecraft Wiki link: https://minecraft.gamepedia.com/Java_Edition_20w07a
 
