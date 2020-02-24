@@ -15,6 +15,7 @@
 	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
 <div class="category">
+<table align="center"><td width="1468" align="center">
 <table align="center">
   <tr align="center">
     <th align="center"><a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
@@ -28,6 +29,7 @@
     <th align="center"><a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></th>
   </tr>
 </table>
+</table></td>
 </div>
 		<br>
 <hr style="margin-bottom:15px;margin-top: 15px;">
