@@ -4,7 +4,7 @@ Crashes / Performance:
         
    * Fixed several crashes that could occur during gameplay
    * 256x resolution packs are now restricted on Xbox One to prevent crashing
-   *  This is a temporary solution until we have the crashing issue resolved
+   *    This is a temporary solution until we have the crashing issue resolved
    * Fixed a crash that could occur in certain worlds (MCPE-59756)
 
 General:
