@@ -135,9 +135,9 @@ Fixed bugs in 20w06a:
   * [MC-103655](https://bugs.mojang.com/browse/MC-103655) - Cats don’t stand up when using right click on them while they’re sitting on chests or beds
   * [MC-109370](https://bugs.mojang.com/browse/MC-109370) - Bottom face of column blocks are rotated 180 degrees
   * [MC-109844](https://bugs.mojang.com/browse/MC-109844) - en_us.json contains unused strings
-  * [MC-109850]() - Redstone wire doesn’t have a bottom texture
-  * [MC-112630]() - Carrot on a stick cannot be broken
-  * [MC-113381]() - Falling dust particles of anvil and concrete powder blocks are black
+  * [MC-109850](https://bugs.mojang.com/browse/MC-109850) - Redstone wire doesn’t have a bottom texture
+  * [MC-112630](https://bugs.mojang.com/browse/MC-112630) - Carrot on a stick cannot be broken
+  * [MC-113381](https://bugs.mojang.com/browse/MC-113381) - Falling dust particles of anvil and concrete powder blocks are black
   * [MC-120335](https://bugs.mojang.com/browse/MC-120335) - Flower pot bottom texture is not rendered because of incorrect “uv” values in the model file
   * [MC-131440](https://bugs.mojang.com/browse/MC-131440) - The message for trying to sleep at the wrong time implies that you can only sleep at night during a thunderstorm
   * [MC-131770](https://bugs.mojang.com/browse/MC-131770) - Rain particles appear one block below the water or lava surface
@@ -159,19 +159,19 @@ Fixed bugs in 20w06a:
   * [MC-160897](https://bugs.mojang.com/browse/MC-160897) - Dropping an item using the drop key displays the hand animation but dropping items from within the inventory does not
   * [MC-160902](https://bugs.mojang.com/browse/MC-160902) - Arm swings when right-clicking on full minecart
   * [MC-161156](https://bugs.mojang.com/browse/MC-161156) - Silverfish and endermites appear black on soul sand
-  * [MC-161259]() - Using the carrot on a stick while riding a pig plays no hand animation
-  * [MC-162881]() - Composter doesn’t display particles when being fed composting items through a hopper
-  * [MC-163286]() - /setblock ~ ~ ~ air destroy does not destroy liquids
-  * [MC-164184]() - Breaking a shulker box with contents in Creative mode drops the block at an incorrect location
-  * [MC-164948]() - Entity shadow renders through transparent blocks
-  * [MC-167077]() - Foxes sleep on top of honey blocks, even in broad daylight
-  * [MC-167512]() - Glass in the hand is rendered differently depending on the “Clouds” setting
-  * [MC-167989]() - Spawn point is not set when monsters are nearby
-  * [MC-168540]() - Threads created by net.minecraft.Util.backgroundExecutor() have misleading names
-  * [MC-168772]() - Experience orbs can crush turtle eggs
-  * [MC-169679]() - Composters do not make sounds when fed by hoppers
-  * [MC-169692]() - Entity shadow floats slightly above the ground
-  * [MC-169832]() - Transparent item models have inconsistent rendering when a glowing entity is present
+  * [MC-161259](https://bugs.mojang.com/browse/MC-161259) - Using the carrot on a stick while riding a pig plays no hand animation
+  * [MC-162881](https://bugs.mojang.com/browse/MC-162881) - Composter doesn’t display particles when being fed composting items through a hopper
+  * [MC-163286](https://bugs.mojang.com/browse/MC-163286) - /setblock ~ ~ ~ air destroy does not destroy liquids
+  * [MC-164184](https://bugs.mojang.com/browse/MC-164184) - Breaking a shulker box with contents in Creative mode drops the block at an incorrect location
+  * [MC-164948](https://bugs.mojang.com/browse/MC-164948) - Entity shadow renders through transparent blocks
+  * [MC-167077](https://bugs.mojang.com/browse/MC-167077) - Foxes sleep on top of honey blocks, even in broad daylight
+  * [MC-167512](https://bugs.mojang.com/browse/MC-167512) - Glass in the hand is rendered differently depending on the “Clouds” setting
+  * [MC-167989](https://bugs.mojang.com/browse/MC-167989) - Spawn point is not set when monsters are nearby
+  * [MC-168540](https://bugs.mojang.com/browse/MC-168540) - Threads created by net.minecraft.Util.backgroundExecutor() have misleading names
+  * [MC-168772](https://bugs.mojang.com/browse/MC-168772) - Experience orbs can crush turtle eggs
+  * [MC-169679](https://bugs.mojang.com/browse/MC-169679) - Composters do not make sounds when fed by hoppers
+  * [MC-169692](https://bugs.mojang.com/browse/MC-169692) - Entity shadow floats slightly above the ground
+  * [MC-169832](https://bugs.mojang.com/browse/MC-169832) - Transparent item models have inconsistent rendering when a glowing entity is present
   * [MC-170128](https://bugs.mojang.com/browse/MC-170128) - Cannot build an EntityType without a datafixer due to an IllegalArgumentExceptiom
   
 Minecraft Wiki Link: https://minecraft.gamepedia.com/Java_Edition_20w06a
