@@ -17,9 +17,13 @@
 <div class="category">
 <div class="legenda">
 <p align="center"><a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a>
+<td></td>
 <a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a>
+<td></td>
 <a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="16" height="auto">Mining</a>
+<td></td>
 <a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Other</a>
+<td></td>
 <a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></p>
 </div></div>
 </div>
