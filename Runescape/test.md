@@ -15,21 +15,19 @@
 	</p><hr style="margin-bottom:15px;margin-top: 15px;">
 		<br>
 <div class="category">
-<table width="1468" align="center"><td width="1468" align="center">
 <table width="1468" align="center">
 <tr width="1468" align="center">
-    <th align="center"><a class="legenda-item" href="#onceuponaslime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
+    <th><a class="legenda-item" href="#once-upon-a-slime"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Quests.png" width="16" height="auto">Once Upon a Slime</a></th>
     <td align="center"></td>
-    <th align="center"><a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a></th>
+    <th><a class="legenda-item" href="#combat"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Bosses1.png" width="16" height="auto">Combat</a></th>
     <td align="center"></td>
-    <th align="center"><a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="16" height="auto">Mining</a></th>
+    <th><a class="legenda-item" href="#mining"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Mining.png" width="16" height="auto">Mining</a></th>
     <td align="center"></td>
-    <th align="center"><a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Other</a></th>
+    <th><a class="legenda-item" href="#other"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Other</a></th>
     <td align="center"></td>
-    <th align="center"><a class="legenda-item" href="#bugfixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></th>
+    <th><a class="legenda-item" href="#bug-fixes"><img src="https://cdn.runescape.com/assets/img/external/misc/patches/Achievements.png" width="16" height="auto">Bug Fixes</a></th>
 </tr>
 </table>
-</table></td>
 </div>
 		<br>
 <hr style="margin-bottom:15px;margin-top: 15px;">
