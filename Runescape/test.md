@@ -130,4 +130,3 @@ Valentines Day might have been and gone but there's never a bad time to show som
 <p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
 </body>
 </html>
-
