@@ -1,5 +1,5 @@
     
-  __* Merge Conflict: "Take Source"/"Keep Target" is missing__
+  * **Merge Conflict: "Take Source"/"Keep Target" is missing**
   __* Crashes when trying to debug uwp application__
    __* Unable to select target platform azure v12 for database project__
    * Fixed crashes or errors that can occur when running Visual Studio after an install action that requires a reboot.
