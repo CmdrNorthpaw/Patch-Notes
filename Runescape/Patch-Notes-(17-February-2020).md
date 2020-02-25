@@ -3,7 +3,7 @@
 	<p>You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down!</p>
 </div>
 <div>
-	</br>
+	<br>
 		<p align="center">
 		<i>Want to share feedback? Why not make a post in our <a href="https://secure.runescape.com/m=forum/forums?442,443,57,66143681">forum</a>!
 		<br>Run into an issue? Click <a href="https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug#RS">here</a> to find out how you can let us know!</i>
