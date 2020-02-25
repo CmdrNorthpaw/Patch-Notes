@@ -6,7 +6,7 @@
    * Patrol routes and zones can now be prioritized, to ensure your most important areas are manned first.
     
     New Items, Floors, Walls:
-    * New Walls & Doors: Yutani Wall (Sci Fi), Visitor's Door, Secure Door (with a flap to deliver food trays to prisoners inside a cell), coloured Fence Gates.
+   * New Walls & Doors: Yutani Wall (Sci Fi), Visitor's Door, Secure Door (with a flap to deliver food trays to prisoners inside a cell), coloured Fence Gates.
     * New Floors: Mud, Grate, and Solaco (Sci Fi - goes great with the Yutani Wall).
     * New Objects: Table (Small) Bench (Small), Bleachers, Bush, Trees (Snowy Conifer, Palm), Lights (Flood Light, Street Light, Wall Light), Shower Pillar, Ironing Board (Small), Office Chair, Door Mat.
     * New furniture such as new chairs, short benches, short tables will fulfill room requirements.
