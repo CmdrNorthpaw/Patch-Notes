@@ -1,12 +1,11 @@
-**TO BE DONE**
 
-    Deployment Overhaul:
+Deployment Overhaul:
    * Deployment context presentation and visuals improved. Now you can see your prison!
    * You can now assign Armed Guards and Dog Handlers to patrols and zones.
    * You can now have 2 different intersecting patrol routes.
    * Patrol routes and zones can now be prioritized, to ensure your most important areas are manned first.
     
-    New Items, Floors, Walls:
+New Items, Floors, Walls:
    * New Walls & Doors: Yutani Wall (Sci Fi), Visitor's Door, Secure Door (with a flap to deliver food trays to prisoners inside a cell), coloured Fence Gates.
    * New Floors: Mud, Grate, and Solaco (Sci Fi - goes great with the Yutani Wall).
    * New Objects: Table (Small) Bench (Small), Bleachers, Bush, Trees (Snowy Conifer, Palm), Lights (Flood Light, Street Light, Wall Light), Shower Pillar, Ironing Board (Small), Office Chair, Door Mat.
