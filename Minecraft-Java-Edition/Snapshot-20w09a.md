@@ -5,7 +5,7 @@ A Minecraft Java Snapshot
 
 Today is a sad day for Obsidian... It's crying. If you're not into crying, you could always take aim at the new Target that we've added.
 
-New Features in 20w09a
+New Features in 20w09a:
 
   * Added the Target block!
   * Added the new Crying Obsidian block. It's sad and it cries purple energy!
