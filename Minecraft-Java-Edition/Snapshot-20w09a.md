@@ -36,8 +36,8 @@ Zombified Piglin:
 
 Technical Changes in 20w09a:
 
-  * New particle types: dripping_obsidian_tear, falling_obsidian_tear, landing_obsidian_tear
-  * Piglins now have an IsImmuneToZombification data value that prevents them from zombifying in the overworld
+  * New particle types: _dripping_obsidian_tear, falling_obsidian_tear, landing_obsidian_tear_
+  * Piglins now have an _IsImmuneToZombification_ data value that prevents them from zombifying in the overworld
 
 Block Renames:
 
