@@ -1,4 +1,4 @@
-Don't NPE on exporting config with null values (Fixes #2973)
+Don't NPE on exporting config with null values [(Fixes #2973)](https://github.com/PaperMC/Paper/issues/2973)
 
 * Commit: https://github.com/PaperMC/Paper/commit/49503ef043d80acc0ad1f5d928b8c7e24c01d387
 
