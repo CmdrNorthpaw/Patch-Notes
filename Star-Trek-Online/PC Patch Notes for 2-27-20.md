@@ -48,8 +48,8 @@ Systems:
 Admiralty Updates:
 * The rewards received for completing the 10th step of the Tour of Duty for the Klingon Empire Admiralty Campaign have been changed from 30,000 Dilithium Ore, to 40,000 Fleet Dilithium Vouchers.
   * This is essentially Refined Dilithium, but may only be used as an input in Fleet Projects.
-   *  The rewards received for completing the 10th step of the Tour of Duty for the Ferengi Alliance Admiralty Campaign have been changed from 30,000 Dilithium Ore, to 30,000 Dilithium Ore Bonus Pool.
-     * This will grant a 50% bonus to most sources of Dilithium Ore received, until the Pool is depleted.
-   * Resolved an issue that caused the turn rate of the Miracle Worker Flight Deck Carriers to be lower than intended.
-   * Updated the tooltip for the Built to Last starship trait to better describe its functionality.
-          *  This is a tooltip change only.
+*  The rewards received for completing the 10th step of the Tour of Duty for the Ferengi Alliance Admiralty Campaign have been changed from 30,000 Dilithium Ore, to 30,000 Dilithium Ore Bonus Pool.
+  * This will grant a 50% bonus to most sources of Dilithium Ore received, until the Pool is depleted.
+* Resolved an issue that caused the turn rate of the Miracle Worker Flight Deck Carriers to be lower than intended.
+* Updated the tooltip for the Built to Last starship trait to better describe its functionality.
+  *  This is a tooltip change only.
