@@ -20,9 +20,6 @@ Published by Warner Chappell and EMI Blackwood Music
 
 Recording courtesy of Island Records under license from Universal Music Enterprises
 
-
-
-
 **“Take My Hand”**
 
 Performed by Charli XCX
@@ -30,18 +27,29 @@ Performed by Charli XCX
 Written by Charlotte Aitchison, Ariel Rechtshaid and Justin Raisen
 
 Published by EMI Foray Music (SESAC), Lion of God Publishing administered by Kobalt Music 
+
 Publishing America, Inc. and Heavy Duty/Mind the Mood administered by Downtown DLJ Songs
 
 Recording courtesy of Warner Music UK by arrangement with Warner Music Group Video Game Licensing
 
 __“We Are Young”__
+
 Performed by fun. feat Janelle Monáe
+
 Written by Nate Ruess, Andrew Dost, Jack Antonoff and Jeff Bhasker
-Published by Bearvon Music (ASCAP) / Rough Art (ASCAP) / Shira Lee Lawrence Rick Music (BMI) / Way Above Music (BMI) / Sony/ATV Songs LLC (BMI)
-Recording courtesy of Atlantic Recording Corp. /Fueled By Ramen by arrangement with Warner Music Group Video Game Licensing
+
+Published by Bearvon Music (ASCAP) / Rough Art (ASCAP) / Shira Lee Lawrence Rick Music (BMI) / 
+Way Above Music (BMI) / Sony/ATV Songs LLC (BMI)
+
+Recording courtesy of Atlantic Recording Corp. /Fueled By Ramen by arrangement with Warner 
+Music Group Video Game Licensing
 
 __“Violet Stars Happy Hunting!”__
+
 Performed by Janelle Monáe
+
 Written by Janelle Monae Robinson, Nathaniel Irvin III and Charles Joseph II
+
 Published by Jane Lle Publishing (ASCAP), Tang Nivri Publishing administered by BMG Monarch(ASCAP) and Ink Is An Instrument (ASCAP)
+
 Recording courtesy of Atlantic Recording Corp. /Bad Boy Records by arrangement with Warner Music Group Video Game Music Licensing
