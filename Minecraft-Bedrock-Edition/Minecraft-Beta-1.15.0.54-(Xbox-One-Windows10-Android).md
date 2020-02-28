@@ -12,7 +12,8 @@ PLEASE READ before participating in the Minecraft Beta:
    Fixes:
 
    Crashes/Performance:
-      * Fixed several crashes that could occur during gameplay
+      
+   * Fixed several crashes that could occur during gameplay
       * Fixed a crash that could sometimes occur when travelling towards -z coordinates 
       * Fixed a crash that could occur when adjusting certain JSON strings in behaviour packs 
       * Fixed a crash that could sometimes occur after resuming the game on Xbox One
