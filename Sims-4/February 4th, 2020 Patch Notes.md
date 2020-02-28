@@ -20,6 +20,9 @@ Published by Warner Chappell and EMI Blackwood Music
 
 Recording courtesy of Island Records under license from Universal Music Enterprises
 
+
+
+
 **“Take My Hand”**
 
 Performed by Charli XCX
