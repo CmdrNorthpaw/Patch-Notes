@@ -11,6 +11,7 @@ We also added new music--we hope you enjoy it!
 **New Music:**
 
 “__JEKYLL & HIDE”__
+
 Performed by Bishop Briggs
 
 Written by Sarah Grace McLaughlin, Kristine Flaherty and Joel Little
@@ -18,6 +19,8 @@ Written by Sarah Grace McLaughlin, Kristine Flaherty and Joel Little
 Published by Warner Chappell and EMI Blackwood Music
 
 Recording courtesy of Island Records under license from Universal Music Enterprises
+
+
 
 __“Take My Hand”__
 Performed by Charli XCX
