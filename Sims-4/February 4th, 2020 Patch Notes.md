@@ -63,8 +63,8 @@ Recording courtesy of Atlantic Recording Corp. /Bad Boy Records by arrangement w
 
 **Island Living:**
 
-  *  Fixed an issue in which Simoleons were not being granted after selling Research Data.
-  *  Sims with Child of the Island Trait can now Summon Island Elements, Ask for Judgement, and receive Judgement properly.
+  * Fixed an issue in which Simoleons were not being granted after selling Research Data.
+  * Sims with Child of the Island Trait can now Summon Island Elements, Ask for Judgement, and receive Judgement properly.
     * I mean, maybe it was a good thing that you were not being judged, but hey, you do you.
 
 
