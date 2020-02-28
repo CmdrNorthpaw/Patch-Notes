@@ -53,3 +53,20 @@ Written by Janelle Monae Robinson, Nathaniel Irvin III and Charles Joseph II
 Published by Jane Lle Publishing (ASCAP), Tang Nivri Publishing administered by BMG Monarch(ASCAP) and Ink Is An Instrument (ASCAP)
 
 Recording courtesy of Atlantic Recording Corp. /Bad Boy Records by arrangement with Warner Music Group Video Game Music Licensing
+
+**FIXES AND UPDATES:**
+
+**The Sims 4:**
+
+  * We fixed some crashes occurring in Build Mode that were afflicting some of our players.
+
+
+**Island Living:**
+
+  *  Fixed an issue in which Simoleons were not being granted after selling Research Data.
+  *  Sims with Child of the Island Trait can now Summon Island Elements, Ask for Judgement, and receive Judgement properly.
+    *I mean, maybe it was a good thing that you were not being judged, but hey, you do you.
+
+
+Thank you Simmers,
+-The Sims 4 Team 
