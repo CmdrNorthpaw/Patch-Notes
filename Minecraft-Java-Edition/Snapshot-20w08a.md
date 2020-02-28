@@ -18,6 +18,3 @@ Snapshots are available for Minecraft: Java Edition. To install the snapshot, op
 Minecraft Launcher and enable snapshots in the "Installations" tab.
 
 **Snapshots can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**
-
-
-

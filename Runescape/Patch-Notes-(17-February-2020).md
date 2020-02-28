@@ -134,4 +134,3 @@
 			</div>
 		<hr style="margin-bottom:15px;margin-top: 15px;">
 	<p align="right"><b>~ Mod Kari and The RuneScape Team</b></p>
-
