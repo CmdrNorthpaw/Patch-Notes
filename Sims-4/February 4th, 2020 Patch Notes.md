@@ -22,6 +22,7 @@ Recording courtesy of Island Records under license from Universal Music Enterpri
 
 
 
+
 __“Take My Hand”__
 Performed by Charli XCX
 Written by Charlotte Aitchison, Ariel Rechtshaid and Justin Raisen
