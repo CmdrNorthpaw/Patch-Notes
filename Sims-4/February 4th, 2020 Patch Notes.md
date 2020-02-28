@@ -20,13 +20,15 @@ Published by Warner Chappell and EMI Blackwood Music
 
 Recording courtesy of Island Records under license from Universal Music Enterprises
 
+**“Take My Hand”**
 
-
-
-__“Take My Hand”__
 Performed by Charli XCX
+
 Written by Charlotte Aitchison, Ariel Rechtshaid and Justin Raisen
-Published by EMI Foray Music (SESAC), Lion of God Publishing administered by Kobalt Music Publishing America, Inc. and Heavy Duty/Mind the Mood administered by Downtown DLJ Songs
+
+Published by EMI Foray Music (SESAC), Lion of God Publishing administered by Kobalt Music 
+Publishing America, Inc. and Heavy Duty/Mind the Mood administered by Downtown DLJ Songs
+
 Recording courtesy of Warner Music UK by arrangement with Warner Music Group Video Game Licensing
 
 __“We Are Young”__
