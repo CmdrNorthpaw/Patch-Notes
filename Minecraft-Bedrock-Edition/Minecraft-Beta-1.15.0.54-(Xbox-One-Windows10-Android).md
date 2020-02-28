@@ -19,24 +19,24 @@ PLEASE READ before participating in the Minecraft Beta:
       *  Fixed a crash that could occur when using the Character Creator
       *  Fixed a crash that could happen if a slime targeted something and lost sight of it
 
-    General
-        Fixed an issue that prevented players from being teleported to a nearby chunk that the game thought was too far away
-        Fixed an issue that was preventing chunks from loading in correctly when travelling between dimensions (MCPE-63268)
-        Fixed an issue that prevented Strongholds from generating with libraries and portal rooms (MCPE-63713)
-        Ocean Monuments once again generate with the correct interior structures (MCPE-63523) 
+   General:
+      *  Fixed an issue that prevented players from being teleported to a nearby chunk that the game thought was too far away
+      *  Fixed an issue that was preventing chunks from loading in correctly when travelling between dimensions (MCPE-63268)
+      *  Fixed an issue that prevented Strongholds from generating with libraries and portal rooms (MCPE-63713)
+      *  Ocean Monuments once again generate with the correct interior structures (MCPE-63523) 
 
-    Gameplay
-        Players will no longer be teleported underneath the main island when using an End Gateway (MCPE-63284)
-        Fixed an issue that meant Pillager Patrols could spawn in unexpected places (MCPE-58285)
-        Fixed an issue that prevented inventories from being opened after riding a mount (MCPE-63196) 
+   Gameplay:
+      *  Players will no longer be teleported underneath the main island when using an End Gateway (MCPE-63284)
+      *  Fixed an issue that meant Pillager Patrols could spawn in unexpected places (MCPE-58285)
+      *  Fixed an issue that prevented inventories from being opened after riding a mount (MCPE-63196) 
 
-    Mobs
-        Tweaked the Iron Golem strolling animation (MCPE-63151)
-        Fixed an issue that prevented Polar Bears, Parrots, Ocelots, and Dolphins from being leashed (MCPE-63095)  
+   Mobs:
+       * Tweaked the Iron Golem strolling animation (MCPE-63151)
+       * Fixed an issue that prevented Polar Bears, Parrots, Ocelots, and Dolphins from being leashed (MCPE-63095)  
 
-    User Interface
-        The "Require players to accept resource packs to join" checkbox is now visible again
-        Fixed the 'Take a tour' navigation arrows in the Marketplace  
+   User Interface:
+       * The "Require players to accept resource packs to join" checkbox is now visible again
+       * Fixed the 'Take a tour' navigation arrows in the Marketplace  
 
-    Add-Ons and Scripting
-        Entities no longer freeze when a component group containing a navigation component is removed
+   Add-Ons and Scripting:
+      *  Entities no longer freeze when a component group containing a navigation component is removed
