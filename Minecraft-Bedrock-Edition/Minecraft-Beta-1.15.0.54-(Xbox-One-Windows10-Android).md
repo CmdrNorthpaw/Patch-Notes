@@ -9,9 +9,9 @@ PLEASE READ before participating in the Minecraft Beta:
     The beta is available only on Xbox One, Windows 10, and Android (Google Play). 
     To join or leave the beta, see ms/JoinMCBeta for detailed instructions**
 
-    Fixes:
+   Fixes:
 
-    Crashes/Performance:
+   Crashes/Performance:
       *  Fixed several crashes that could occur during gameplay
       *  Fixed a crash that could sometimes occur when travelling towards -z coordinates 
       *  Fixed a crash that could occur when adjusting certain JSON strings in behaviour packs 
