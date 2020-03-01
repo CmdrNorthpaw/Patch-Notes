@@ -39,7 +39,7 @@ Bug Fixes:
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
 
-*Fixes labelled Hotfix were addressed between weekly releases.*
+__*Fixes labelled Hotfix were addressed between weekly releases.*__
 
 Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after committing to a chat message.
 Fixed an issue with clan noticeboard 'thread ID paste' causing a crash/loss of functionality on mobile.
