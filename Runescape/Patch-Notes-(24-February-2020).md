@@ -1,15 +1,10 @@
 __Patch Notes - 24/02__
 
-We've got a list as long as Telos' arm this week, with lots of general improvements to the game alongside the meatier stuff! Honestly we're not too sure how the list got so long this week, but it might have something to do with some old friends stepping out of the shadows…
+```We've got a list as long as Telos' arm this week, with lots of general improvements to the game alongside the meatier stuff! Honestly we're not too sure how the list got so long this week, but it might have something to do with some old friends stepping out of the shadows…```
 
 Want to share feedback? Why not make a post in the our [forum](https://secure.runescape.com/m=forum/a=13/forums)? Run into an issue? Click [here](https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug-) to find out how you can let us know!
-Quality Of Life Improvements
-Diversity Improvements
-120 Farming and Herblore
-Mobile
-Other
-Bugfix
-Quality Of Life Improvements
+
+Quality Of Life Improvements:
 
 Who doesn't like a big ol' list of QoL changes? There's a little bit of something for everyone here, from more convenient teleporting to an improved Invention Make-X interface. We'd tell you more about the shadowy team behind these changes, but before we could ask their name they disappeared in a cloud of smoke. How mysterious…
 The Skills Necklace has been updated to include teleports to the Invention, Runecrafting and Farming guilds.
