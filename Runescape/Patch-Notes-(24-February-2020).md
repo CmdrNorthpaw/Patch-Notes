@@ -7,20 +7,24 @@ _Want to share feedback? Why not make a post in the our [forum](https://secure.r
 Quality Of Life Improvements:
 
 Who doesn't like a big ol' list of QoL changes? There's a little bit of something for everyone here, from more convenient teleporting to an improved Invention Make-X interface. We'd tell you more about the shadowy team behind these changes, but before we could ask their name they disappeared in a cloud of smoke. How mysterious…
-The Skills Necklace has been updated to include teleports to the Invention, Runecrafting and Farming guilds.
-The "You have been poisoned!" message displayed when fighting Gregorovic in God Wars Dungeon 2 can now be filtered in the chat box.
-The "Helwyr's continued attacks cause you to lose even more blood!" message displayed when fighting Helwyr in God Wars Dungeon 2 can now be filtered in the chat box.
-The "Collect all to" buttons on the Collection Box interface have been switched around to match the ordering of the buttons on the Grand Exchange interface.
-An Ancient Seed has been added to the Herby Werby Reward Shop. When planted using the Inventory option, the Ancient Seed will teleport you to Herby Werby on Anachronia.
-Faction Seals in God Wars Dungeon 2 will no longer drop from bosses if you have reached max reputation for other factions.
-For example, if you have max Seren, Sliske, and Zamorak Rep, Vindicta will no longer drop seals.
-Apoterrasaurs now follow the correct tier ordering in the Animal Breeding Log.
-The Invention Make-X interface has been given some TLC:
-Items are now categorised based on their functionality, such as "Core Invention Items" and "Combat Support". This can be accessed via the dropdown on the interface.
-All items are now ordered by Invention level where appropriate except in the "Core Invention Items" category. This was an exception to ensure that similar types of items stayed next to each other on the list and that familiarity with this was not lost.
-Augmented combat equipment has also been re-ordered, starting with Body, then Legs. It's also sorted by tier.
-The Tower of Life altars can now unnote the first ingredient of a creature's recipe by using the noted item on the altar, or by right clicking/long pressing the altar. This will unnote one item at a time, and will not work with the swordchick altar as the swordchick does not drop noted raw swordfish.
-Buy 1, 5, 10, All, and X options have been added to Angof's Crystal Armour Shop on Tarddiad.
+
+  * The Skills Necklace has been updated to include teleports to the Invention, Runecrafting and Farming guilds.
+  * The "You have been poisoned!" message displayed when fighting Gregorovic in God Wars Dungeon 2 can now be filtered in the chat box.
+  * The "Helwyr's continued attacks cause you to lose even more blood!" message displayed when fighting Helwyr in God Wars Dungeon 2 can now be filtered in the chat box.
+  * The "Collect all to" buttons on the Collection Box interface have been switched around to match the ordering of the buttons on the Grand Exchange interface.
+  * An Ancient Seed has been added to the Herby Werby Reward Shop. When planted using the Inventory option, the Ancient Seed will teleport you to Herby Werby on Anachronia.
+  * Faction Seals in God Wars Dungeon 2 will no longer drop from bosses if you have reached max reputation for other factions.
+    * For example, if you have max Seren, Sliske, and Zamorak Rep, Vindicta will no longer drop seals.
+  * Apoterrasaurs now follow the correct tier ordering in the Animal Breeding Log.
+  * The Invention Make-X interface has been given some TLC:
+  * Items are now categorised based on their functionality, such as "Core Invention Items" and "Combat Support". 
+    * This can be accessed via the dropdown on the interface.
+  * All items are now ordered by Invention level where appropriate except in the "Core Invention Items" category. 
+    * This was an exception to ensure that similar types of items stayed next to each other on the list and that familiarity with this was not lost.
+  * Augmented combat equipment has also been re-ordered, starting with Body, then Legs. It's also sorted by tier.
+  * The Tower of Life altars can now unnote the first ingredient of a creature's recipe by using the noted item on the altar, or by right clicking/long pressing the altar. 
+    * This will unnote one item at a time, and will not work with the swordchick altar as the swordchick does not drop noted raw swordfish.
+  * Buy 1, 5, 10, All, and X options have been added to Angof's Crystal Armour Shop on Tarddiad.
 Diversity Improvements
 
 We're holding our hands up on this one - in the past, we could have done a better job of fostering diversity in game. But as they say, the best time to get started is now, and so today we've made the following small changes to help RuneScape be a happier and more inclusive place.
