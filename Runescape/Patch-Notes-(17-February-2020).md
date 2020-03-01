@@ -10,29 +10,36 @@ Once Upon a Slime:
 Have you helped King Slime find love yet? It's not too late!
 
   * King Slime's Top Hat now appears at the start of the newest list within the player wardrobe.
-Fixed a typo that occurs in the Once Upon A Slime quest.
-Completing the quest will now allow players to re-equip their Comp Capes without having to log back in.
-Combat
+  * Fixed a typo that occurs in the Once Upon A Slime quest.
+  * Completing the quest will now allow players to re-equip their Comp Capes without having to log back in.
+
+Combat:
 
 Death can be difficult to work with, even at the best of times.
-Players can no longer receive the first two bosses from Elite Dungeons as Reaper assignments.
-Fixed a bug that allowed players' to walk inside the portals.
-Mining
+
+  * Players can no longer receive the first two bosses from Elite Dungeons as Reaper assignments.
+  * Fixed a bug that allowed players' to walk inside the portals.
+
+Mining:	
 
 Semi-active miners were unintentionally impacted by a change to AFK mining rates. To remedy this we have adjusted the rates as follows:
-*100% stamina = 100% damage
-*1-99% stamina = 90% damage
-*0% stamina = 20% damage
-Players only chasing rockertunities should now find their rates similar to before
-Other
-Pushed a number of server-side optimisations and futureproofing measures for Diango's item storage.
-The Winter Chill off has now been removed from the Lumbridge Crater.
-The uncompressed textures setting has been re-enabled.
-Bug Fixes
+
+  * 100% stamina = 100% damage
+  * 1-99% stamina = 90% damage
+  * 0% stamina = 20% damage
+  * Players only chasing rockertunities should now find their rates similar to before
+
+Other:
+
+  * Pushed a number of server-side optimisations and futureproofing measures for Diango's item storage.
+  * The Winter Chill off has now been removed from the Lumbridge Crater.
+  * The uncompressed textures setting has been re-enabled.
+
+Bug Fixes: 
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
+*Fixes labelled Hotfix were addressed between weekly releases.*
 
-Fixes labelled Hotfix were addressed between weekly releases.
 Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after committing to a chat message.
 Fixed an issue with clan noticeboard 'thread ID paste' causing a crash/loss of functionality on mobile.
 The broadcast for a HSR drop will now be displayed in areas where this was previously missed.
