@@ -25,48 +25,60 @@ Who doesn't like a big ol' list of QoL changes? There's a little bit of somethin
   * The Tower of Life altars can now unnote the first ingredient of a creature's recipe by using the noted item on the altar, or by right clicking/long pressing the altar. 
     * This will unnote one item at a time, and will not work with the swordchick altar as the swordchick does not drop noted raw swordfish.
   * Buy 1, 5, 10, All, and X options have been added to Angof's Crystal Armour Shop on Tarddiad.
-Diversity Improvements
+
+Diversity Improvements:
 
 We're holding our hands up on this one - in the past, we could have done a better job of fostering diversity in game. But as they say, the best time to get started is now, and so today we've made the following small changes to help RuneScape be a happier and more inclusive place.
-The word ‘Gypsy’ has been removed from Aris’ name and examine text as this word could be interpreted as a racial slur.
-Various NPCs in Karamja have been given more appropriate titles.
-Various NPCs in the Kharidian Desert have had their name changed from 'Ali' to better reflect the diverse variety of names we see in real life.
-Some dialogue in the Kindred Spirits quest has been altered to remove unintended offense.
-120 Farming and Herblore
+
+  * The word ‘Gypsy’ has been removed from Aris’ name and examine text as this word could be interpreted as a racial slur.
+  * Various NPCs in Karamja have been given more appropriate titles.
+  * Various NPCs in the Kharidian Desert have had their name changed from 'Ali' to better reflect the diverse variety of names we see in real life.
+  * Some dialogue in the Kindred Spirits quest has been altered to remove unintended offense.
+
+120 Farming and Herblore:
 
 Ah, Farming, such a salt of the earth career path. Made infinitely more difficult of course in the recent storms we've seen outside Jagex HQ this last week. Well the real world might be sinking in mud, but Gielinor remains a hub of agricultural activity thanks to a (hay)stack of helpful new changes!
-Updated the examine text of the Harvest Potion so all the different doses are now consistent.
-You now gain Farming Reputation from harvesting calquat fruits.
-Messaging is now displayed telling players why using Growth Potions or Patch Bombs on money trees at Manor Farm will not work.
-Salamanders have received a nudge of 'encouragement' from Prehistoric Potterington, and will now breed at faster rates.
-Flies are now stackable.
-Players can now reliably decant potions without opening a crafting menu.
-Player can now fill up plant pots from the bloodwood tree and money tree patch at Manor Farm.
-Harvesting from bush patches while using the wolpertinger familiar will now correctly award Farming Reputation.
-Cave nightshade is now far less frustrating to harvest from inside the skavid caves. Players will now find more spots to harvest them from and will receive token Farming XP for doing so, but must wear gloves to avoid getting poisoned. Picking cave nightshade now also works with Signs of the Porter.
-Wolpertinger familiars now correctly fill Farming urns when harvesting bushes.
-After struggling to say Green Salamanders, Meg has gone back to calling them Swamp Lizards. The text shown now matches her VO.
-A 'Sell All' option has been added to Baby Shakes.
-Mobile
-Modified Farmer's Hat and Amulet of Bountiful Harvest now message in green when seeds are saved in the sowing process.
-Improved the visibility of messages generated for users when interacting with the Slayer Rewards shop on mobile.
-The Beast of Burden Inventory icons have been updated to use circular slots that match the main backpack Inventory.
-Fixed a typo on a Treasure Hunter popup on mobile.
-Fixed an issue that was blocking scrolling on mobile when browsing Invention blueprints on the discovery side of the workbench.
-Fixed an issue that was causing the Member's Founder Pack interface to be displayed too soon for new users on the mobile client.
-The bank placement indicators should now appear on mobile.
-Removed PC terminology from the lodestone teleport interface on mobile.
-Other
-The Mining Stamina Bar is now on by default for players that have a mining level of 15 or greater. You can turn this off by going to your gameplay settings > skills > Mining.
-If a player has one of Turael's Burthorpe Introductory Paths selected when they level up to become an "experienced" player, their Path will now be cleared since all the items in the selected Path will appear as complete.
-Lady Deathknell has closed down the Combat Academy and the Lumbridge Market has noticed the free real estate and moved in. The nearby Bank chest remains intact. Some of the combat training dummies have been moved to Burthorpe's training camp.
-Bugfix
+
+  * Updated the examine text of the Harvest Potion so all the different doses are now consistent.
+  * You now gain Farming Reputation from harvesting calquat fruits.
+  * Messaging is now displayed telling players why using Growth Potions or Patch Bombs on money trees at Manor Farm will not work.
+  * Salamanders have received a nudge of 'encouragement' from Prehistoric Potterington, and will now breed at faster rates.
+  * Flies are now stackable.
+  * Players can now reliably decant potions without opening a crafting menu.
+  * Player can now fill up plant pots from the bloodwood tree and money tree patch at Manor Farm.
+  * Harvesting from bush patches while using the wolpertinger familiar will now correctly award Farming Reputation.
+  * Cave nightshade is now far less frustrating to harvest from inside the skavid caves  
+    * Players will now find more spots to harvest them from and will receive token Farming XP for doing so, but must wear gloves to avoid getting poisoned. Picking cave nightshade now also works with Signs of the Porter.
+  * Wolpertinger familiars now correctly fill Farming urns when harvesting bushes.
+  * After struggling to say Green Salamanders, Meg has gone back to calling them Swamp Lizards. 
+    * The text shown now matches her VO.
+  * 'Sell All' option has been added to Baby Shakes.
+
+Mobile:
+
+  * Modified Farmer's Hat and Amulet of Bountiful Harvest now message in green when seeds are saved in the sowing process.
+  * Improved the visibility of messages generated for users when interacting with the Slayer Rewards shop on mobile.
+  * The Beast of Burden Inventory icons have been updated to use circular slots that match the main backpack Inventory.
+  * Fixed a typo on a Treasure Hunter popup on mobile.
+  * Fixed an issue that was blocking scrolling on mobile when browsing Invention blueprints on the discovery side of the workbench.
+  * Fixed an issue that was causing the Member's Founder Pack interface to be displayed too soon for new users on the mobile client.
+  * The bank placement indicators should now appear on mobile.
+  * Removed PC terminology from the lodestone teleport interface on mobile.
+
+Other:
+
+  * The Mining Stamina Bar is now on by default for players that have a mining level of 15 or greater. You can turn this off by going to your gameplay settings > skills > Mining.
+  * If a player has one of Turael's Burthorpe Introductory Paths selected when they level up to become an "experienced" player, their Path will now be cleared since all the items in the selected Path will appear as complete.
+  * Lady Deathknell has closed down the Combat Academy and the Lumbridge Market has noticed the free real estate and moved in. The nearby Bank chest remains intact. 
+    * Some of the combat training dummies have been moved to Burthorpe's training camp.
+
+Bugfix:
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
 
-Fixes labelled Hotfix were addressed between weekly releases.
-Hotfix: The hard farming requester now correctly hands out a random Barrows item.
-Activated auras are no longer sent to inventory when the player is killed in PvP zones.
+  * Fixes labelled Hotfix were addressed between weekly releases.
+  * Hotfix: The hard farming requester now correctly hands out a random Barrows item.
+  * Activated auras are no longer sent to inventory when the player is killed in PvP zones.
 The quest marker for Once Upon a Slime is now removed from the minimap and worldmap upon completion.
 The "Dibs on the First Batch" Achievement on the Farming path can now be finished as intended.
 Fixed an issue with Crafting menus highlighting the wrong items.
