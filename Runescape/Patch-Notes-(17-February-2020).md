@@ -38,6 +38,7 @@ Other:
 Bug Fixes: 
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
+
 *Fixes labelled Hotfix were addressed between weekly releases.*
 
 Action bar keybinds are no longer slightly delayed after exiting various interfaces. The short delay still remains after committing to a chat message.
