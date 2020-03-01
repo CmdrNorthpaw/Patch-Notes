@@ -2,19 +2,14 @@ __Patch Notes - 17/02__
 
 Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!
 
-
 Want to share feedback? Why not make a post in our forum!
 Run into an issue? Click here to find out how you can let us know!
 
-Once Upon a Slime
-Combat
-Mining
-Other
-Bug Fixes
-Once Upon a Slime
+Once Upon a Slime:
 
 Have you helped King Slime find love yet? It's not too late!
-King Slime's Top Hat now appears at the start of the newest list within the player wardrobe.
+
+  * King Slime's Top Hat now appears at the start of the newest list within the player wardrobe.
 Fixed a typo that occurs in the Once Upon A Slime quest.
 Completing the quest will now allow players to re-equip their Comp Capes without having to log back in.
 Combat
