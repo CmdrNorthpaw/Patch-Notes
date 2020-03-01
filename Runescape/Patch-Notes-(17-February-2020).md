@@ -2,8 +2,8 @@ __Patch Notes - 17/02__
 
 Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!
 
-Want to share feedback? Why not make a post in our forum!
-Run into an issue? Click here to find out how you can let us know!
+Want to share feedback? Why not make a post in our [forum](https://secure.runescape.com/m=forum/a=13/forums)!
+Run into an issue? Click [here](https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug-) to find out how you can let us know!
 
 Once Upon a Slime:
 
