@@ -1,8 +1,8 @@
 __Patch Notes - 17/02__
 
-# Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!
+### Valentines Day might have been and gone but there's never a bad time to show some love to our Patch Notes!
 
-# You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down! 
+### You may have noticed that we have a new look this week. We're changing the way we bring Patch Notes to you. The differences will be small to begin with, designed mainly to make this page feel a little less formal, but eventually we hope to improve the whole format to offer a lot more than we currently do. Got any ideas? Let us know! Links to our forums are a few lines down! 
 
 Want to share feedback? Why not make a post in our forum!
 Run into an issue? Click here to find out how you can let us know!
