@@ -75,6 +75,7 @@ Other:
 Bugfix:
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
+
 __*Fixes labelled Hotfix were addressed between weekly releases.*__
 
   * Hotfix: The hard farming requester now correctly hands out a random Barrows item.
