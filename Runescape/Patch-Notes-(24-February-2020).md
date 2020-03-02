@@ -75,26 +75,28 @@ Other:
 Bugfix:
 
 No one likes encounter bugs when they play, so each week we do our best to squash as many as we can!
+__*Fixes labelled Hotfix were addressed between weekly releases.*__
 
-  * Fixes labelled Hotfix were addressed between weekly releases.
   * Hotfix: The hard farming requester now correctly hands out a random Barrows item.
   * Activated auras are no longer sent to inventory when the player is killed in PvP zones.
-The quest marker for Once Upon a Slime is now removed from the minimap and worldmap upon completion.
-The "Dibs on the First Batch" Achievement on the Farming path can now be finished as intended.
-Fixed an issue with Crafting menus highlighting the wrong items.
-Fixed a client crash that was caused by equipping specific uncharged augmented gear.
-Wendy will now correctly dye your cat when asked after completing Purple Cat (Miniquest).
-Incense buffs are no longer removed when leaving the Fight Kiln.
-The "Steel Yourself for Combat" Achievement now works for upgraded steel items.
-Fixed an issue in which the contents of an ore box was being deposited into a player's Inventory if the box had previously been placed into a full Bank upon death.
-When trying to equip a Completionist Cape from the Bank without the requirements the cape will no longer visually remain in the Back slot.
-The Death of Chivalry quest now correctly accounts for players who have chosen V as their god.
-Can no longer check POF animals in other locations if the action is performed while Teleporting.
-Restored full reclaim functionality for Sentinel and Trapper outfits to Diango's storage system.
-Fixed an issue preventing some Body and Leg pieces from skilling outfits from being reclaimed.
-Prevented the ability to claim multiple skilling outfit pieces via Diango's storage system.
-A bug that was causing an issue with some people's Player Owned House has been fixed. If you were affected by this issue you can visit your designated portal to remove the extra rooms and have the materials refunded.
-A bug that was causing players to lose ownership of their cannon if another player logs out with an active cannon has been fixed. There might still be the odd occurrence here or there, so be sure to use the feedback form linked above if you still encounter this issue..
+  * The quest marker for Once Upon a Slime is now removed from the minimap and worldmap upon completion.
+  * The "Dibs on the First Batch" Achievement on the Farming path can now be finished as intended.
+  * Fixed an issue with Crafting menus highlighting the wrong items.
+  * Fixed a client crash that was caused by equipping specific uncharged augmented gear.
+  * Wendy will now correctly dye your cat when asked after completing Purple Cat (Miniquest).
+  * Incense buffs are no longer removed when leaving the Fight Kiln.
+  * The "Steel Yourself for Combat" Achievement now works for upgraded steel items.
+  * Fixed an issue in which the contents of an ore box was being deposited into a player's  Inventory if the box had previously been placed into a full Bank upon death.
+  * When trying to equip a Completionist Cape from the Bank without the requirements the cape will no longer visually remain in the Back slot.
+  * The Death of Chivalry quest now correctly accounts for players who have chosen V as their god.
+  * Can no longer check POF animals in other locations if the action is performed while Teleporting.
+  * Restored full reclaim functionality for Sentinel and Trapper outfits to Diango's storage system.
+  * Fixed an issue preventing some Body and Leg pieces from skilling outfits from being reclaimed.
+  * Prevented the ability to claim multiple skilling outfit pieces via Diango's storage system.
+  * A bug that was causing an issue with some people's Player Owned House has been fixed. 
+    * If you were affected by this issue you can visit your designated portal to remove the extra rooms and have the materials refunded.
+  * A bug that was causing players to lose ownership of their cannon if another player logs out with an active cannon has been fixed. 
+    * There might still be the odd occurrence here or there, so be sure to use the feedback form linked above if you still encounter this issue..
 
 Phew, made it through! We said it was long, didn't we!
 
