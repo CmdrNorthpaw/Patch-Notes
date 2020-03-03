@@ -1,3 +1,5 @@
+*Our developers have been hard at work getting top issues addressed for this hotfix. Several of these were reported by players, so keep those reports coming at [bugs.mojang.com](https://bugs.mojang.com/) This update is still multiplayer compatible with devices running any version of 1.14.*
+
 Fixes:
 
 Crashes / Performance:
