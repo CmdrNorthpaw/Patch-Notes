@@ -4,15 +4,17 @@ Happy Monday everyone!
 
 What makes this Monday a good one you might ask? Well for starters, we've got shedloads of great changes and fixes to everything from tutorial pop-ups to Christmas puddings. Beyond that, we're just excited because the release date for Archaeology has been announced! Oh, and be sure to keep an eye out for the Ninja Team, who are back in action and ready to strike!
 
-Missed the release date teaser? Catch up here!
+Missed the release date teaser? Catch up [here](https://www.youtube.com/watch?v=goU1pkBqpGE)!
 
 _Want to share feedback? Why not make a post in the our [forum](https://secure.runescape.com/m=forum/a=13/forums)? Run into an issue? Click [here](https://support.runescape.com/hc/en-gb/articles/360001355429-How-to-report-a-Bug-) to find out how you can let us know!_
 
-Player Tutorials
+Player Tutorials:
 
 Remember Tutorial Island? That nostalgic little islet is the first thing most players see when they first step foot in Gielinor, and we want to make sure the things you learn there (and elsewhere) are as helpful as possible. With that in mind, we've made the following changes.
-A tutorial pop-up to teach default interaction now appears after character creation if the player doesn't move from the starting coordinate for a while after arrival on the mainland.
-A two-step tutorial pop-up to teach camera zoom and rotation controls now appears after the default interaction popup, or after the player's first conversation with Turael during the First Time User Experience - as long as these controls haven't previously been taught or have otherwise been cancelled.
+
+  * A tutorial pop-up to teach default interaction now appears after character creation if the player doesn't move from the starting coordinate for a while after arrival on the mainland.
+  * A two-step tutorial pop-up to teach camera zoom and rotation controls now appears after the default interaction popup, or after the player's first conversation with Turael during the First Time User Experience  
+    * as long as these controls haven't previously been taught or have otherwise been cancelled.
 The Click/Tap to Continue button now flashes in the player's first mainland conversation, instead of just the first conversation with the RuneScape Guide on Tutorial Island.
 The Loot All button is now highlighted the first time the player picks up multiple items with area loot.
 A brief tutorial for the Loot window and the Backpack now appears when first picking up an item, if guidance system hints are enabled.
