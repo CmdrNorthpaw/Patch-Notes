@@ -1,4 +1,4 @@
-*This hotfix is only available on PlayStation 4 and addresses several issues that players have experienced. As always, please report any issues to bugs.mojang.com! This update is still multiplayer compatible with all versions of 1.14.*
+*This hotfix is only available on PlayStation 4 and addresses several issues that players have experienced. As always, please report any issues to [bugs.mojang.com](https://bugs.mojang.com/)! This update is still multiplayer compatible with all versions of 1.14.*
 
 **Fixes:**
 
