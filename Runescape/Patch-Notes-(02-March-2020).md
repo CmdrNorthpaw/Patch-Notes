@@ -15,16 +15,18 @@ Remember Tutorial Island? That nostalgic little islet is the first thing most pl
   * A tutorial pop-up to teach default interaction now appears after character creation if the player doesn't move from the starting coordinate for a while after arrival on the mainland.
   * A two-step tutorial pop-up to teach camera zoom and rotation controls now appears after the default interaction popup, or after the player's first conversation with Turael during the First Time User Experience  
     * as long as these controls haven't previously been taught or have otherwise been cancelled.
-The Click/Tap to Continue button now flashes in the player's first mainland conversation, instead of just the first conversation with the RuneScape Guide on Tutorial Island.
-The Loot All button is now highlighted the first time the player picks up multiple items with area loot.
-A brief tutorial for the Loot window and the Backpack now appears when first picking up an item, if guidance system hints are enabled.
-Levelling up is now introduced the first time a new player gains a level in any skill, if guidance system hints are enabled.
-Moving via the Minimap is now introduced when the player starts being directed away from the Burthorpe lodestone, if this wasn't taught on Tutorial Island.
-New players on the Burthorpe First Time User Experience that leave the Burthorpe & Taverley area are now informed of the lodestone network, so they know how to return to a safe hub.
-The tutorial pop-up that previously only occurred when starting the Blood Pact quest now occurs when starting your first quest.
-A "Tell me about the skills menu" dialogue option has been added to all skill tutors.
-A list of repeatable tutorials is now available from Turael, Major Mary Rancour and the Lumbridge Sage. This includes several topics salvaged from Tutorial Island, such as the Financial Advisor's introduction to the economy, and the Quest Guide's introduction to the quest list.
-Diango
+  * The Click/Tap to Continue button now flashes in the player's first mainland conversation, instead of just the first conversation with the RuneScape Guide on Tutorial Island.
+  * The Loot All button is now highlighted the first time the player picks up multiple items with area loot.
+  * A brief tutorial for the Loot window and the Backpack now appears when first picking up an item, if guidance system hints are enabled.
+  * Levelling up is now introduced the first time a new player gains a level in any skill, if guidance system hints are enabled.
+  * Moving via the Minimap is now introduced when the player starts being directed away from the Burthorpe lodestone, if this wasn't taught on Tutorial Island.
+  * New players on the Burthorpe First Time User Experience that leave the Burthorpe & Taverley area are now informed of the lodestone network, so they know how to return to a safe hub.
+  * The tutorial pop-up that previously only occurred when starting the Blood Pact quest now occurs when starting your first quest.
+  * A "Tell me about the skills menu" dialogue option has been added to all skill tutors.
+  * A list of repeatable tutorials is now available from Turael, Major Mary Rancour and the Lumbridge Sage. 
+    * This includes several topics salvaged from Tutorial Island, such as the Financial Advisor's introduction to the economy, and the Quest Guide's introduction to the quest list.
+
+Diango:
 
 Diango and his store have undergone some further work this week.
 'Skill Sets' are now displayed while hovering over the skill tab in the Diango interface.
