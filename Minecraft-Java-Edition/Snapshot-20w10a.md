@@ -44,33 +44,33 @@ target_hit advancement trigger type:
 
 Fixed bugs in 20w10a:
 
-   * MC-130906 - Dolphins are moving very fast when near a boat
-   * MC-131046 - Angry dolphins give players dolphin’s grace
-   * MC-146824 - Inconsistency: Ladders and tripwire hooks cannot be placed on the sides of redstone blocks, observers and target blocks
-   * MC-147496 - Dolphin tries to catch the boat of the non-player ride
-   * MC-152441 - Corner quartz stairs (not corner smooth quartz stairs) do not have the border on the back/bottom that a normal quartz stair would have
-   * MC-165518 - Village houses desert_temple_1 and plains_temple_4 have no floor at entrance
-   * MC-169533 - Asymmetrical walls in snowy_cartographer_house_1
-   * MC-169715 - Misrotated block in snowy_small_house_3
-   * MC-169869 - Mooshroom using incorrect texture in Programmer Art
-   * MC-170242 - Asymmetrical walls in taiga_medium_house_4
-   * MC-170470 - At snowy_library_1, the snow block is placed next to the window, which causes ugly visual effect
-   * MC-170819 - Netherite sword and boots textures have transparent pixels
-   * MC-170829 - When dropping netherite tools and armor into lava, it sounds as if they are burning
-   * MC-170897 - Fossils in soulsand valleys can be generated in the air
-   * MC-171367 - Warped Fungi item does not match block texture
-   * MC-171447 - Crimson root item form has inconsistent texture
-   * MC-172077 - Piglins with NoAI shake in the overworld
-   * MC-172082 - Piglins do not serialize their conversion time
-   * MC-172242 - Left handed piglins don’t look at gold ingots in their right hand
-   * MC-172567 - Wither skeletons don’t automaticly attack piglins
-   * MC-173021 - Unuseful warning is logged when server receives incorrect vehicle movement packets
-   * MC-173090 - Attacking baby piglins don’t anger any adult piglins
-   * MC-173165 - Piglin Bartering Loot Table contains an extra “set_count” function
-   * MC-173168 - The word “backup” appears instead of the phrase “back up.”
-   * MC-173169 - Piglins still aren’t attracted to powered rails
-   * MC-173176 - Serialization error affecting operators list and whitelist
-   * MC-173244 - Target block moved by pistons permanently keep their signal strength
+   * [MC-130906]() - Dolphins are moving very fast when near a boat
+   * [MC-131046]() - Angry dolphins give players dolphin’s grace
+   * [MC-146824]() - Inconsistency: Ladders and tripwire hooks cannot be placed on the sides of redstone blocks, observers and target blocks
+   * [MC-147496]() - Dolphin tries to catch the boat of the non-player ride
+   * [MC-152441]() - Corner quartz stairs (not corner smooth quartz stairs) do not have the border on the back/bottom that a normal quartz stair would have
+   * [MC-165518]() - Village houses desert_temple_1 and plains_temple_4 have no floor at entrance
+   * [MC-169533]() - Asymmetrical walls in snowy_cartographer_house_1
+   * [MC-169715]() - Misrotated block in snowy_small_house_3
+   * [MC-169869]() - Mooshroom using incorrect texture in Programmer Art
+   * [MC-170242]() - Asymmetrical walls in taiga_medium_house_4
+   * [MC-170470]() - At snowy_library_1, the snow block is placed next to the window, which causes ugly visual effect
+   * [MC-170819]() - Netherite sword and boots textures have transparent pixels
+   * [MC-170829]() - When dropping netherite tools and armor into lava, it sounds as if they are burning
+   * [MC-170897]() - Fossils in soulsand valleys can be generated in the air
+   * [MC-171367]() - Warped Fungi item does not match block texture
+   * [MC-171447]() - Crimson root item form has inconsistent texture
+   * [MC-172077]() - Piglins with NoAI shake in the overworld
+   * [MC-172082]() - Piglins do not serialize their conversion time
+   * [MC-172242]() - Left handed piglins don’t look at gold ingots in their right hand
+   * [MC-172567]() - Wither skeletons don’t automaticly attack piglins
+   * [MC-173021]() - Unuseful warning is logged when server receives incorrect vehicle movement packets
+   * [MC-173090]() - Attacking baby piglins don’t anger any adult piglins
+   * [MC-173165]() - Piglin Bartering Loot Table contains an extra “set_count” function
+   * [MC-173168]() - The word “backup” appears instead of the phrase “back up.”
+   * [MC-173169]() - Piglins still aren’t attracted to powered rails
+   * [MC-173176]() - Serialization error affecting operators list and whitelist
+   * [MC-173244]() - Target block moved by pistons permanently keep their signal strength
 
 Get the snapshot:
 
