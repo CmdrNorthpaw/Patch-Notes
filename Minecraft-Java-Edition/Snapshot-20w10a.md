@@ -4,11 +4,12 @@ Minecraft Snapshot 20w10a
 A Minecraft Java Snapshot
 
 Today's snapshot is loud! It comes with a bunch of new ambient sound that adds some really nice flavour to the Nether biomes. Apart from this, you now have to use the smithing table to craft Netherite. Happy mining!
-New Features in 20w10a
 
-    Added crimson and warped hyphae – all-sided "stem" blocks including stripped variations
-    Use a smithing table to fuse the Netherite ingot with your diamond weapon/tool/armor
-    New ambient sounds for the Nether biomes
+New Features in 20w10a:
+
+   * Added crimson and warped hyphae – all-sided "stem" blocks including stripped variations
+   * Use a smithing table to fuse the Netherite ingot with your diamond weapon/tool/armor
+   * New ambient sounds for the Nether biomes
 
 Changes in 20w10a
 
