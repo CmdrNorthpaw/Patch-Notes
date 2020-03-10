@@ -16,17 +16,17 @@ This Featured Event will be the first of a series of upcoming Events that will m
  
 Event:
 
-  *  Battle at the Binary Stars returns!:
-    *  Battle at the Binary Stars returns as a Featured Task Force Operation!
-    *  This event will last for 3 weeks and Captains can earn an all new reward!
-    *  This event version of the Battle at the Binary Stars Event can be accessed via the new Event UI, accessible within your Mission Journal by pressing on the “Events” Tab.
-  *  Battle at the Binary Stars returns updates:
-    *  TFO Rewards include a Choice of All Marks instead of only including Discovery Marks.
-    *  There is no Cooldown – play it as frequently as you like!
-    * Temporarily removed from “Random TFO” selection.
-    *  Normal, Advanced, and Elite versions all offer Event Daily Progress upon first completion, once per day per account.
-      * Advanced and Elite versions also have level requirements of 50 and 60, respectively.
-    * Players must have completed their faction’s Tutorial, and chosen a primary Allegiance (if applicable) before being able to participate in the Event version of this content. 
+  *  Battle at the Binary Stars returns as a Featured Task Force Operation!
+    * This event will last for 3 weeks and Captains can earn an all new reward!
+    * This event version of the Battle at the Binary Stars Event can be accessed via the new Event UI, accessible within your Mission Journal by pressing on the “Events” Tab.
+
+Battle at the Binary Stars returns updates:
+   * TFO Rewards include a Choice of All Marks instead of only including Discovery Marks.
+   * There is no Cooldown – play it as frequently as you like!
+   * Temporarily removed from “Random TFO” selection.
+   * Normal, Advanced, and Elite versions all offer Event Daily Progress upon first completion, once per day per account.
+     * Advanced and Elite versions also have level requirements of 50 and 60, respectively.
+   * Players must have completed their faction’s Tutorial, and chosen a primary Allegiance (if applicable) before being able to participate in the Event version of this content. 
     
 Rewards:
     
