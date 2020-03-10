@@ -11,7 +11,8 @@ This Featured Event will be the first of a series of upcoming Events that will m
           * This choice is only made once per Account, upon claiming the prize.
       * Players may earn 50 Event Campaign Progress for each day they participate in an eligible event.
         * Buying out an eligible event will include up to 700 Event Campaign Progress.
-      * For more information, please visit the “Return to the Battle at the Binary Stars!” blog at: [https://www.arcgames.com/en/games/star-trek-online/news/detail/11377343-retrn-to-the-battle-at-the-binary-stars%21](https://www.arcgames.com/en/games/star-trek-online/news/detail/11377343-retrn-to-the-battle-at-the-binary-stars%21)
+
+For more information, please visit the “Return to the Battle at the Binary Stars!” blog at: [https://www.arcgames.com/en/games/star-trek-online/news/detail/11377343-retrn-to-the-battle-at-the-binary-stars%21](https://www.arcgames.com/en/games/star-trek-online/news/detail/11377343-retrn-to-the-battle-at-the-binary-stars%21)
 
  
 Event:
@@ -70,31 +71,31 @@ For more information, please visit the “Return to the Battle at the Binary Sta
  
 Legacy Progress:
 
-    Veteran players that have participated in previous Featured TFOs may still be in possession of multiple “Featured TFO Commendation” items, which are no longer used in the new Event System.
-    Players that still have these will be able to turn them in for Daily Progress and Event Campaign Progress.
-        Each upcoming eligible event will have an option to Apply Legacy Progress to the requirements present.
-    For those of you who had past Featured TFO projects still slotted in the old Event Reputation UI, those projects will be auto-completed, granting you the rewards.
+  * Veteran players that have participated in previous Featured TFOs may still be in possession of multiple “Featured TFO Commendation” items, which are no longer used in the new Event System.
+  * Players that still have these will be able to turn them in for Daily Progress and Event Campaign Progress.
+    * Each upcoming eligible event will have an option to Apply Legacy Progress to the requirements present.
+   * For those of you who had past Featured TFO projects still slotted in the old Event Reputation UI, those projects will be auto-completed, granting you the rewards.
 
  
 General:
 
-    Added a starship customization officer to Starbase 39-Sierra.
-    Removed duplicate material options on the Legendary Command Exploration Cruiser.
-    Pillars in Facility 4028 have had their gravity re-enabled.
-    Added Filtering and Item Searching to Item Equip and Guild Bank windows.
-    Improved FPS when viewing your Inventory, Bank, or various Stores in many cases
-    Added a mouseover tooltip to the “Trade in Marks” button in the Reputation UI that explains what it does and why it’s disabled (if applicable)
+   * Added a starship customization officer to Starbase 39-Sierra.
+   * Removed duplicate material options on the Legendary Command Exploration Cruiser.
+   * Pillars in Facility 4028 have had their gravity re-enabled.
+   * Added Filtering and Item Searching to Item Equip and Guild Bank windows.
+   * Improved FPS when viewing your Inventory, Bank, or various Stores in many cases
+   * Added a mouseover tooltip to the “Trade in Marks” button in the Reputation UI that explains what it does and why it’s disabled (if applicable)
 
  
 Systems:
 
-    Resolved an issue that caused the bonuses on the Alliance Battlecruiser (T6) and Risian Pilot corvette (T6) Admiralty Ships to not be applied.
-    Resolved an issue that caused the Admiralty Ship for the Legendary Miracle Worker Assault Cruiser (T6) to have lower Engineering stats than intended.
-    Added "S'torr " to the display name of the Fek'Ihri Warship's Admiralty Ship.
+   * Resolved an issue that caused the bonuses on the Alliance Battlecruiser (T6) and Risian Pilot corvette (T6) Admiralty Ships to not be applied.
+   * Resolved an issue that caused the Admiralty Ship for the Legendary Miracle Worker Assault Cruiser (T6) to have lower Engineering stats than intended.
+   * Added "S'torr" to the display name of the Fek'Ihri Warship's Admiralty Ship.
 
  
 Character:
 
-    Added mini top hat for Cardassian Captains.
-    Added mini top hat for Ridge heads (Klingon) Captains.
-    Resolved an issue that was causing missing parts when applying the Gorn Tunic in the tailor.
+   * Added mini top hat for Cardassian Captains.
+   * Added mini top hat for Ridge heads (Klingon) Captains.
+   * Resolved an issue that was causing missing parts when applying the Gorn Tunic in the tailor.
