@@ -53,9 +53,10 @@ A Second Chance:
    * Progress after the Event has ended will remain in an all new Second Chance interface, allowing the option to buyout rewards long after the Event has expired.
     
 DOT-7 Drones:
+    
     * Players that completed this Featured Event will be rewarded with two different methods of summoning their own DOT-7 Drones:
       * Universal Kit Module – DOT-7 Drone Fabrication:
-        * This kit module fabricates a DOT-7 Utility Drone that will follow and assist you.
+         * This kit module fabricates a DOT-7 Utility Drone that will follow and assist you.
             It will periodically attempt to cripple the damage resistance, damage output, and/or movement speed of nearby enemies by using Fuse Armor and/or Weapons Malfunction.
 
 DOT-7 Non-Combat Drone (Vanity Pet):
