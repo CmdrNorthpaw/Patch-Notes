@@ -16,8 +16,8 @@ Event Campaign – Part II:
  
 Event:
 
-    Battle at the Binary Stars returns!:
-        Battle at the Binary Stars returns as a Featured Task Force Operation!
+  *  Battle at the Binary Stars returns!:
+      *  Battle at the Binary Stars returns as a Featured Task Force Operation!
         This event will last for 3 weeks and Captains can earn an all new reward!
         This event version of the Battle at the Binary Stars Event can be accessed via the new Event UI, accessible within your Mission Journal by pressing on the “Events” Tab.
         Battle at the Binary Stars returns updates:
