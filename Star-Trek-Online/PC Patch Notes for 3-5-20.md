@@ -40,10 +40,10 @@ Rewards:
 
 Bonus Rewards:
 
-    * After claiming the Grand Prize, you will unlock the option of earning additional Dilithium Ore each day, beginning at 8,000 Dilithium Ore for the first day’s completion.
+   * After claiming the Grand Prize, you will unlock the option of earning additional Dilithium Ore each day, beginning at 8,000 Dilithium Ore for the first day’s completion.
       * Earning Bonus Progress each day thereafter will increase this reward by an additional 1,000, and we have increased the cap on how high this value may scale to a value that is unreachable during this Event (thus effectively unlimited!).
-    * All Bonus Progress Rewards are rewarded a maximum of once per day, per account, and are immediately and automatically granted to the active character when the requirement is met.
-    * Zen Buyout Option:
+   * All Bonus Progress Rewards are rewarded a maximum of once per day, per account, and are immediately and automatically granted to the active character when the requirement is met.
+   * Zen Buyout Option:
       * For players interested in instantly completing the Battle at the Binary Stars FTFO event, we will be offering an updated method for buying out.
          * Within the new Event UI, an option will be presented that allows you to purchase the remaining progress that you need, for a scaling amount of Zen.
 A Second Chance:
