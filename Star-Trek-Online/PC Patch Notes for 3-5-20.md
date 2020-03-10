@@ -29,6 +29,7 @@ Event:
     * Players must have completed their faction’s Tutorial, and chosen a primary Allegiance (if applicable) before being able to participate in the Event version of this content. 
     
 Rewards:
+    
     * All players may complete the Battle at the Binary Stars FTFO in order to earn their Daily Progress once every 20 hours, in addition to TFO’s standard rewards.
     * Earn a total of 14 days’ worth of Daily Progress to become eligible to claim all of these rewards:
       * Universal Kit Module – DOT-7 Drone Fabrication (and Account-Wide Unlock for Reclaim).
