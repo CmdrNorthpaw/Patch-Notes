@@ -33,10 +33,7 @@ Rewards:
    * All players may complete the Battle at the Binary Stars FTFO in order to earn their Daily Progress once every 20 hours, in addition to TFO’s standard rewards.
    *  Earn a total of 14 days’ worth of Daily Progress to become eligible to claim all of these rewards:
      * Universal Kit Module – DOT-7 Drone Fabrication (and Account-Wide Unlock for Reclaim).
-     * DOT-7 Non-Combat Drone (and Account-Wide Unlock for Reclaim).
-     * 25,000 Dilithium Ore (once only).
-     * 3x Featured TFO Reward Boxes (once only).
-       * Each gives a choice of 1x Specialization Point or an Enhanced Universal Tech Upgrade.
+   
 
 Bonus Rewards:
             After claiming the Grand Prize, you will unlock the option of earning additional Dilithium Ore each day, beginning at 8,000 Dilithium Ore for the first day’s completion.
