@@ -1,6 +1,6 @@
 Event Campaign – Part II:
 
-   * This Featured Event will be the first of a series of upcoming Events that will make up the second installment of our multi-event system known as an Event Campaign.
+This Featured Event will be the first of a series of upcoming Events that will make up the second installment of our multi-event system known as an Event Campaign.
     
    * Event Campaign – Part II updates:
         
@@ -45,15 +45,18 @@ Bonus Rewards:
     * All Bonus Progress Rewards are rewarded a maximum of once per day, per account, and are immediately and automatically granted to the active character when the requirement is met.
     * Zen Buyout Option:
       * For players interested in instantly completing the Battle at the Binary Stars FTFO event, we will be offering an updated method for buying out.
-        * Within the new Event UI, an option will be presented that allows you to purchase the remaining progress that you need, for a scaling amount of Zen.
-        A Second Chance:
-            Progress after the Event has ended will remain in an all new Second Chance interface, allowing the option to buyout rewards long after the Event has expired.
-    DOT-7 Drones:
-        Players that completed this Featured Event will be rewarded with two different methods of summoning their own DOT-7 Drones:
-        Universal Kit Module – DOT-7 Drone Fabrication:
-            This kit module fabricates a DOT-7 Utility Drone that will follow and assist you.
+         * Within the new Event UI, an option will be presented that allows you to purchase the remaining progress that you need, for a scaling amount of Zen.
+A Second Chance:
+
+    * Progress after the Event has ended will remain in an all new Second Chance interface, allowing the option to buyout rewards long after the Event has expired.
+    
+DOT-7 Drones:
+    * Players that completed this Featured Event will be rewarded with two different methods of summoning their own DOT-7 Drones:
+      * Universal Kit Module – DOT-7 Drone Fabrication:
+        * This kit module fabricates a DOT-7 Utility Drone that will follow and assist you.
             It will periodically attempt to cripple the damage resistance, damage output, and/or movement speed of nearby enemies by using Fuse Armor and/or Weapons Malfunction.
-        DOT-7 Non-Combat Drone (Vanity Pet):
+
+DOT-7 Non-Combat Drone (Vanity Pet):
             This automated replica is only equipped with the most basic AI subroutines and should be incapable of causing issues even when exposed to hostile technology.
             Obtaining these rewards on any character on your account will unlock the ability to reclaim each of them on other characters, via the Reclaim Store within the Events UI.
                 You may only reclaim this item on characters that do not already own one.
