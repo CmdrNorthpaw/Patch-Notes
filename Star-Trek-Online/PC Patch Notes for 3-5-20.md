@@ -60,8 +60,9 @@ DOT-7 Drones:
             It will periodically attempt to cripple the damage resistance, damage output, and/or movement speed of nearby enemies by using Fuse Armor and/or Weapons Malfunction.
 
 DOT-7 Non-Combat Drone (Vanity Pet):
-            This automated replica is only equipped with the most basic AI subroutines and should be incapable of causing issues even when exposed to hostile technology.
-            Obtaining these rewards on any character on your account will unlock the ability to reclaim each of them on other characters, via the Reclaim Store within the Events UI.
+
+   * This automated replica is only equipped with the most basic AI subroutines and should be incapable of causing issues even when exposed to hostile technology.
+     * Obtaining these rewards on any character on your account will unlock the ability to reclaim each of them on other characters, via the Reclaim Store within the Events UI.
                 You may only reclaim this item on characters that do not already own one.
 
 For more information, please visit the “Return to the Battle at the Binary Stars!” blog at: https://www.arcgames.com/en/games/star-trek-online/news/detail/11377343-return-to-the-battle-at-the-binary-stars%21
