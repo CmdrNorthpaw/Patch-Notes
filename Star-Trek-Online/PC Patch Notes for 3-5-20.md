@@ -50,7 +50,7 @@ Zen Buyout Option:
 
 A Second Chance:
 
-    * Progress after the Event has ended will remain in an all new Second Chance interface, allowing the option to buyout rewards long after the Event has expired.
+   * Progress after the Event has ended will remain in an all new Second Chance interface, allowing the option to buyout rewards long after the Event has expired.
     
 DOT-7 Drones:
     * Players that completed this Featured Event will be rewarded with two different methods of summoning their own DOT-7 Drones:
