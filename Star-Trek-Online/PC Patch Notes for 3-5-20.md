@@ -17,25 +17,27 @@ Event Campaign – Part II:
 Event:
 
   *  Battle at the Binary Stars returns!:
-      *  Battle at the Binary Stars returns as a Featured Task Force Operation!
-      *  This event will last for 3 weeks and Captains can earn an all new reward!
-        *  This event version of the Battle at the Binary Stars Event can be accessed via the new Event UI, accessible within your Mission Journal by pressing on the “Events” Tab.
+    *  Battle at the Binary Stars returns as a Featured Task Force Operation!
+    *  This event will last for 3 weeks and Captains can earn an all new reward!
+    *  This event version of the Battle at the Binary Stars Event can be accessed via the new Event UI, accessible within your Mission Journal by pressing on the “Events” Tab.
   *  Battle at the Binary Stars returns updates:
-      *  TFO Rewards include a Choice of All Marks instead of only including Discovery Marks.
-      *  There is no Cooldown – play it as frequently as you like!
-      * Temporarily removed from “Random TFO” selection.
-      *  Normal, Advanced, and Elite versions all offer Event Daily Progress upon first completion, once per day per account.
-        * Advanced and Elite versions also have level requirements of 50 and 60, respectively.
-      * Players must have completed their faction’s Tutorial, and chosen a primary Allegiance (if applicable) before being able to participate in the Event version of this content. 
+    *  TFO Rewards include a Choice of All Marks instead of only including Discovery Marks.
+    *  There is no Cooldown – play it as frequently as you like!
+    * Temporarily removed from “Random TFO” selection.
+    *  Normal, Advanced, and Elite versions all offer Event Daily Progress upon first completion, once per day per account.
+      * Advanced and Elite versions also have level requirements of 50 and 60, respectively.
+    * Players must have completed their faction’s Tutorial, and chosen a primary Allegiance (if applicable) before being able to participate in the Event version of this content. 
+    
     Rewards:
-        All players may complete the Battle at the Binary Stars FTFO in order to earn their Daily Progress once every 20 hours, in addition to TFO’s standard rewards.
-        Earn a total of 14 days’ worth of Daily Progress to become eligible to claim all of these rewards:
-            Universal Kit Module – DOT-7 Drone Fabrication (and Account-Wide Unlock for Reclaim).
-            DOT-7 Non-Combat Drone (and Account-Wide Unlock for Reclaim).
-            25,000 Dilithium Ore (once only).
-            3x Featured TFO Reward Boxes (once only).
-                Each gives a choice of 1x Specialization Point or an Enhanced Universal Tech Upgrade.
-        Bonus Rewards:
+    * All players may complete the Battle at the Binary Stars FTFO in order to earn their Daily Progress once every 20 hours, in addition to TFO’s standard rewards.
+    * Earn a total of 14 days’ worth of Daily Progress to become eligible to claim all of these rewards:
+      * Universal Kit Module – DOT-7 Drone Fabrication (and Account-Wide Unlock for Reclaim).
+        * DOT-7 Non-Combat Drone (and Account-Wide Unlock for Reclaim).
+        * 25,000 Dilithium Ore (once only).
+        * 3x Featured TFO Reward Boxes (once only).
+          * Each gives a choice of 1x Specialization Point or an Enhanced Universal Tech Upgrade.
+
+Bonus Rewards:
             After claiming the Grand Prize, you will unlock the option of earning additional Dilithium Ore each day, beginning at 8,000 Dilithium Ore for the first day’s completion.
             Earning Bonus Progress each day thereafter will increase this reward by an additional 1,000, and we have increased the cap on how high this value may scale to a value that is unreachable during this Event (thus effectively unlimited!).
             All Bonus Progress Rewards are rewarded a maximum of once per day, per account, and are immediately and automatically granted to the active character when the requirement is met.
