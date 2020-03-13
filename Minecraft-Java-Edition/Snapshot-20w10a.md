@@ -72,6 +72,8 @@ Fixed bugs in 20w10a:
    * [MC-173176](https://bugs.mojang.com/browse/MC-173176) - Serialization error affecting operators list and whitelist
    * [MC-173244](https://bugs.mojang.com/browse/MC-173244) - Target block moved by pistons permanently keep their signal strength
 
+Minecraft Wiki link: https://minecraft.gamepedia.com/Java_Edition_20w10a
+
 Get the snapshot:
 
 Snapshots are available for Minecraft: Java Edition. To install the snapshot, open up the Minecraft Launcher and enable snapshots in the "Installations" tab.
