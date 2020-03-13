@@ -50,42 +50,42 @@ Technical Changes in 20w11a:
 
 Fixed bugs in 20w11a:
 
-   * MC-81659 - Fireball and witherskull hitboxes are frequently invisible for some seconds
-   * MC-134900 - server.properties generator-settings for level-type FLAT not implemented; property is stored in ignored flat_world_options NBT
-   * MC-145140 - Fireballs cannot be interacted with when summoned
-   * MC-146928 - Can’t place doors, rails, buttons, pressure plate, redstone, etc. on soul sand
-   * MC-148935 - Zombies with no AI still convert into drowned
-   * MC-171079 - Comparators no longer work as expected reading containers through powered blocks
-   * MC-171860 - Nether fossils have code implying an unimplemented /locate function
-   * MC-172266 - Crossbow wielding piglins do not properly walk backwards to target the player when very close
-   * MC-172323 - Game crashes when summoning a hoglin with the attack damage attribute set to 0 or giving a hoglin weakness with a very high level (255)
-   * MC-172374 - Can teleport to invalid y coordinates and crash the game
-   * MC-172428 - Piglins and hoglins don’t look at their target
-   * MC-172470 - When the piglin holds the bow, it will try to attack and follow the enemy eventually stood there not moving
-   * MC-172530 - Piglins indefinitely stand around dropped golden items if mobGriefing is disabled
-   * MC-172903 - Piglins which convert into zombified piglins delete armor if equipped
-   * MC-173156 - Z-fighting at bottom of potted bamboo; bottom texture of bamboo is exposed
-   * MC-173167 - Netherite sword/tools not sorted with other swords/tools
-   * MC-173180 - Hoglins are not scared of Warped Fungus in flower pots
-   * MC-173219 - No sound when climbing weeping vines
-   * MC-173243 - Crying obsidian is movable by pistons
-   * MC-173283 - Piglin admiring held gold ingot doesn’t drop it when killed
-   * MC-173302 - Crying Obsidian can be harvested with any pickaxe
-   * MC-173384 - Crying obsidian can be destroyed by the Ender Dragon
-   * MC-173433 - Killing a baby Hoglin doesn’t yield experience
-   * MC-173462 - Baby piglins can hold soul fire torches
-   * MC-173467 - Piglins admiring bartering gold ingot drop nothing when converting to Zombified Piglin
-   * MC-173484 - Death message from falling off a trapdoor does not mention it by name
-   * MC-173485 - Death message from falling off scaffolding does not mention it by name
-   * MC-173706 - NullPointerException in server tick loop when trying to load a flatland world with Nether biome
-   * MC-173725 - Anvil name field doesn’t automatically receive focus anymore and is unclickable
-   * MC-173731 - Fire and soul fire play a sound and produce particles when extinguished
-   * MC-173732 - Fire and soul fire do not have loot tables
-   * MC-173739 - Missing sound for event: minecraft:block.smithing_table.use
-   * MC-173766 - Thrown tridents disappear after hitting and damaging a mob or entity
-   * MC-173776 - Hoes do not mine targets faster
-   * MC-173792 - End gateways don’t work using enderpearls
-   * MC-173858 - Unable to set “LeftHanded” to “1b” for piglins
+   * [MC-81659](https://bugs.mojang.com/browse/MC-81659) - Fireball and witherskull hitboxes are frequently invisible for some seconds
+   * [MC-134900](https://bugs.mojang.com/browse/MC-134900) - server.properties generator-settings for level-type FLAT not implemented; property is stored in ignored flat_world_options NBT
+   * [MC-145140](https://bugs.mojang.com/browse/MC-145140) - Fireballs cannot be interacted with when summoned
+   * [MC-146928](https://bugs.mojang.com/browse/MC-146928) - Can’t place doors, rails, buttons, pressure plate, redstone, etc. on soul sand]
+   * [MC-148935](https://bugs.mojang.com/browse/MC-148935) - Zombies with no AI still convert into drowned
+   * [MC-171079](https://bugs.mojang.com/browse/MC-171079) - Comparators no longer work as expected reading containers through powered blocks
+   * [MC-171860](https://bugs.mojang.com/browse/MC-171860) - Nether fossils have code implying an unimplemented /locate function
+   * [MC-172266](https://bugs.mojang.com/browse/MC-172266) - Crossbow wielding piglins do not properly walk backwards to target the player when very close
+   * [MC-172323](https://bugs.mojang.com/browse/MC-172323) - Game crashes when summoning a hoglin with the attack damage attribute set to 0 or giving a hoglin weakness with a very high level (255)
+   * [MC-172374](https://bugs.mojang.com/browse/MC-172374) - Can teleport to invalid y coordinates and crash the game
+   * [MC-172428](https://bugs.mojang.com/browse/MC-172428) - Piglins and hoglins don’t look at their target
+   * [MC-172470](https://bugs.mojang.com/browse/MC-172470) - When the piglin holds the bow, it will try to attack and follow the enemy eventually stood there not moving
+   * [MC-172530](https://bugs.mojang.com/browse/MC-172530) - Piglins indefinitely stand around dropped golden items if mobGriefing is disabled
+   * [MC-172903](https://bugs.mojang.com/browse/MC-172903) - Piglins which convert into zombified piglins delete armor if equipped
+   * [MC-173156](https://bugs.mojang.com/browse/MC-173156) - Z-fighting at bottom of potted bamboo; bottom texture of bamboo is exposed
+   * [MC-173167](https://bugs.mojang.com/browse/MC-173167) - Netherite sword/tools not sorted with other swords/tools
+   * [MC-173180](https://bugs.mojang.com/browse/MC-173180) - Hoglins are not scared of Warped Fungus in flower pots
+   * [MC-173219](https://bugs.mojang.com/browse/MC-173219) - No sound when climbing weeping vines
+   * [MC-173243](https://bugs.mojang.com/browse/MC-173243) - Crying obsidian is movable by pistons
+   * [MC-173283](https://bugs.mojang.com/browse/MC-173283) - Piglin admiring held gold ingot doesn’t drop it when killed
+   * [MC-173302](https://bugs.mojang.com/browse/MC-173302) - Crying Obsidian can be harvested with any pickaxe
+   * [MC-173384](https://bugs.mojang.com/browse/MC-173384) - Crying obsidian can be destroyed by the Ender Dragon
+   * [MC-173433](https://bugs.mojang.com/browse/MC-173433) - Killing a baby Hoglin doesn’t yield experience
+   * [MC-173462](https://bugs.mojang.com/browse/MC-173462) - Baby piglins can hold soul fire torches
+   * [MC-173467](https://bugs.mojang.com/browse/MC-173467) - Piglins admiring bartering gold ingot drop nothing when converting to Zombified Piglin
+   * [MC-173484](https://bugs.mojang.com/browse/MC-173484) - Death message from falling off a trapdoor does not mention it by name
+   * [MC-173485](https://bugs.mojang.com/browse/MC-173485) - Death message from falling off scaffolding does not mention it by name
+   * [MC-173706](https://bugs.mojang.com/browse/MC-173706) - NullPointerException in server tick loop when trying to load a flatland world with Nether biome
+   * [MC-173725](https://bugs.mojang.com/browse/MC-173725) - Anvil name field doesn’t automatically receive focus anymore and is unclickable
+   * [MC-173731](https://bugs.mojang.com/browse/MC-173731) - Fire and soul fire play a sound and produce particles when extinguished
+   * [MC-173732](https://bugs.mojang.com/browse/MC-173732) - Fire and soul fire do not have loot tables
+   * [MC-173739](https://bugs.mojang.com/browse/MC-173739) - Missing sound for event: minecraft:block.smithing_table.use
+   * [MC-173766](https://bugs.mojang.com/browse/MC-173766) - Thrown tridents disappear after hitting and damaging a mob or entity
+   * [MC-173776](https://bugs.mojang.com/browse/MC-173776) - Hoes do not mine targets faster
+   * [MC-173792](https://bugs.mojang.com/browse/MC-173792) - End gateways don’t work using enderpearls
+   * [MC-173858](https://bugs.mojang.com/browse/MC-173858) - Unable to set “LeftHanded” to “1b” for piglins
 
 Minecraft Wiki link: https://minecraft.gamepedia.com/Java_Edition_20w11a
 
