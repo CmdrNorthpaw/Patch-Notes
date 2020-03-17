@@ -7,7 +7,7 @@ PLEASE READ before participating in the Minecraft Beta:
     copies of worlds to prevent losing them.
     Beta builds can be unstable and are not representative of final version quality
     The beta is available only on Xbox One, Windows 10, and Android (Google Play). 
-    To join or leave the beta, see ms/JoinMCBeta for detailed instructions**
+    To join or leave the beta, see [ms/JoinMCBeta](https://aka.ms/JoinMCBeta) for detailed instructions**
 
 Parity:
 
