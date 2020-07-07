@@ -101,12 +101,12 @@ Technical changes in 20w06a:
 
 Commands:
 
-**locatebiome**
+`locatebiome`
 
 New command that locates a specified biome. Useful in creative mode when you’re
 looking for a specific biome and don’t want to fly around randomly searching for it.
 
-Syntax: _locatebiome <biome>_
+Syntax: `locatebiome <biome>`
 
 Parameters:
 

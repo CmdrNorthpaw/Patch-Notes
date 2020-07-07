@@ -33,14 +33,14 @@ Entity UUIDs:
 
 New tags for item frames:
 
-   * _Invisible_ - makes item frame invisible (item inside frame remains visible)
-   * _Fixed_ - prevents item frame from being broken and the item inside from being removed
+   * `Invisible` - makes item frame invisible (item inside frame remains visible)
+   * `Fixed` - prevents item frame from being broken and the item inside from being removed
 
 target_hit advancement trigger type:
 
-   * _signal_strength_ matches the signal strength output from the block on hit
-   * _projectile matches_ the projectile entity
-   * _shooter_ matches the player who shot or threw the projectile
+   * `signal_strength` matches the signal strength output from the block on hit
+   * `projectile` matches the projectile entity
+   * `shooter` matches the player who shot or threw the projectile
 
 Fixed bugs in 20w10a:
 
@@ -71,6 +71,8 @@ Fixed bugs in 20w10a:
    * [MC-173169](https://bugs.mojang.com/browse/MC-173169) - Piglins still aren’t attracted to powered rails
    * [MC-173176](https://bugs.mojang.com/browse/MC-173176) - Serialization error affecting operators list and whitelist
    * [MC-173244](https://bugs.mojang.com/browse/MC-173244) - Target block moved by pistons permanently keep their signal strength
+
+Minecraft Wiki link: https://minecraft.gamepedia.com/Java_Edition_20w10a
 
 Get the snapshot:
 
